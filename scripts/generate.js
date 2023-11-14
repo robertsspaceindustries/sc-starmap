@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import fetch from "node-fetch";
+import filter from "./util/filter.js";
 
 const wait = (t) => new Promise((r) => setTimeout(r, t));
 
@@ -34,7 +35,10 @@ const bootup = await starmapRequest("POST", baseUrl + "/bootup");
 if (!bootup) throw new Error("Failed to fetch bootup data");
 console.log("Fetched bootup");
 
-const systems = bootup.systems.resultset;
+const systems = bootup.systems.resultset.map(
+	(object) =>
+		filter(object, ["id", "code", "description", "name", "status", "type", "affiliation"]), // Remove unneeded data
+);
 const objects = [];
 
 for (const system of systems) {
