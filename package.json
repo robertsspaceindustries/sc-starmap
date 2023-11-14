@@ -1,0 +1,14 @@
+{
+	"type": "module",
+	"scripts": {
+		"generate": "node scripts/generate.js",
+		"lint": "npx eslint ."
+	},
+	"devDependencies": {
+		"eslint": "^8.52.0",
+		"eslint-plugin-import": "^2.29.0"
+	},
+	"dependencies": {
+		"node-fetch": "^3.3.2"
+	}
+}
