@@ -48,7 +48,7 @@ for (const system of systems) {
 
 	objects.push(...find.objects.resultset);
 
-	await wait(1_000);
+	await wait(1_000); // Avoid sending too many requests
 }
 
 fs.writeFile(
