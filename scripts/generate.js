@@ -2,6 +2,8 @@ import fs from "node:fs";
 import path from "node:path";
 import fetch from "node-fetch";
 
+const wait = (t) => new Promise((r) => setTimeout(r, t));
+
 const baseUrl = "https://robertsspaceindustries.com/api/starmap";
 
 async function starmapRequest(method, url, body) {
@@ -41,6 +43,8 @@ for (const system of systems) {
 	console.log("Fetched system " + system.name);
 
 	objects.push(...find.objects.resultset);
+
+	await wait(2_500);
 }
 
 fs.writeFile(
