@@ -2,12 +2,6 @@ import fs from "node:fs";
 import path from "node:path";
 import fetch from "node-fetch";
 
-function unique(a) {
-	return a.sort().filter(function (item, pos, ary) {
-		return !pos || item != ary[pos - 1];
-	});
-}
-
 const wait = (t) => new Promise((r) => setTimeout(r, t));
 
 const baseUrl = "https://robertsspaceindustries.com/api/starmap";
@@ -60,7 +54,9 @@ fs.writeFile(
 	JSON.stringify(
 		{
 			systems: systems,
-			objects: unique(objects),
+			objects: objects.filter(
+				(item, index, self) => index === self.findIndex((t) => t["id"] === item["id"]),
+			),
 		},
 		undefined,
 		4, // Beautify
