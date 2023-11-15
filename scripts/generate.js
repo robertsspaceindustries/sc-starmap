@@ -2,6 +2,12 @@ import fs from "node:fs";
 import path from "node:path";
 import fetch from "node-fetch";
 
+function unique(a) {
+	return a.sort().filter(function (item, pos, ary) {
+		return !pos || item != ary[pos - 1];
+	});
+}
+
 const wait = (t) => new Promise((r) => setTimeout(r, t));
 
 const baseUrl = "https://robertsspaceindustries.com/api/starmap";
@@ -34,25 +40,27 @@ const bootup = await starmapRequest("POST", baseUrl + "/bootup");
 if (!bootup) throw new Error("Failed to fetch bootup data");
 console.log("Fetched bootup");
 
-const systems = new Set(bootup.systems.resultset);
-const objects = new Set();
+const systems = bootup.systems.resultset;
+const objects = [];
+
+console.log("ETA: " + (systems.length * 250) / 1_000 + "s");
 
 for (const system of systems) {
 	const find = await starmapRequest("POST", baseUrl + "/find", { query: system.name });
 	if (!find) throw new Error("Failed to fetch data for system " + system.name);
 	console.log("Fetched system " + system.name);
 
-	objects.add(...find.objects.resultset);
+	objects.push(...find.objects.resultset);
 
-	await wait(1_000); // Avoid sending too many requests
+	await wait(250); // Avoid sending too many requests
 }
 
 fs.writeFile(
 	path.resolve("out/starmap.json"),
 	JSON.stringify(
 		{
-			systems: [...systems],
-			objects: [...objects],
+			systems: systems,
+			objects: unique(objects),
 		},
 		undefined,
 		4, // Beautify
