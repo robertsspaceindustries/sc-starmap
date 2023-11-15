@@ -34,15 +34,15 @@ const bootup = await starmapRequest("POST", baseUrl + "/bootup");
 if (!bootup) throw new Error("Failed to fetch bootup data");
 console.log("Fetched bootup");
 
-const systems = bootup.systems.resultset;
-const objects = [];
+const systems = new Set(bootup.systems.resultset);
+const objects = new Set();
 
 for (const system of systems) {
 	const find = await starmapRequest("POST", baseUrl + "/find", { query: system.name });
 	if (!find) throw new Error("Failed to fetch data for system " + system.name);
 	console.log("Fetched system " + system.name);
 
-	objects.push(...find.objects.resultset);
+	objects.add(...find.objects.resultset);
 
 	await wait(1_000); // Avoid sending too many requests
 }
@@ -51,8 +51,8 @@ fs.writeFile(
 	path.resolve("out/starmap.json"),
 	JSON.stringify(
 		{
-			systems,
-			objects,
+			systems: [...systems],
+			objects: [...objects],
 		},
 		undefined,
 		4, // Beautify
