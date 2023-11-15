@@ -3391,36 +3391,6 @@
             }
         },
         {
-            "id": 1699,
-            "code": "STANTON.JUMPPOINTS.TERRA",
-            "designation": "Stanton - Terra",
-            "name": null,
-            "star_system_id": 314,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 314,
-                "code": "STANTON",
-                "name": "Stanton",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1728,
-            "code": "TERRA.JUMPPOINTS.STANTON",
-            "designation": "Terra - Stanton",
-            "name": null,
-            "star_system_id": 316,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 316,
-                "code": "TERRA",
-                "name": "Terra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1729,
             "code": "TERRA.JUMPPOINTS.TARANIS",
             "designation": "Terra - Taranis",
@@ -3796,21 +3766,6 @@
             }
         },
         {
-            "id": 1711,
-            "code": "NYX.JUMPPOINTS.VIRGIL",
-            "designation": "Nyx - Virgil",
-            "name": null,
-            "star_system_id": 315,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 315,
-                "code": "NYX",
-                "name": "Nyx",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1734,
             "code": "VIRGIL.JUMPPOINTS.KELLOG",
             "designation": "Virgil - Kellog",
@@ -3829,21 +3784,6 @@
             "id": 1733,
             "code": "VIRGIL.JUMPPOINTS.OBERON",
             "designation": "Virgil - Oberon",
-            "name": null,
-            "star_system_id": 317,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 317,
-                "code": "VIRGIL",
-                "name": "Virgil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1732,
-            "code": "VIRGIL.JUMPPOINTS.NYX",
-            "designation": "Virgil - Nyx",
             "name": null,
             "star_system_id": 317,
             "status": "P",
@@ -4126,21 +4066,6 @@
             }
         },
         {
-            "id": 1754,
-            "code": "PYRO.JUMPPOINTS.TERRA",
-            "designation": "Pyro - Terra",
-            "name": null,
-            "star_system_id": 318,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 318,
-                "code": "PYRO",
-                "name": "Pyro",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1877,
             "code": "OSO.JUMPPOINTS.PYRO",
             "designation": "Oso - Pyro",
@@ -4231,81 +4156,6 @@
             }
         },
         {
-            "id": 1740,
-            "code": "PYRO.JUMPPOINTS.STANTON",
-            "designation": "Pyro - Stanton",
-            "name": null,
-            "star_system_id": 318,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 318,
-                "code": "PYRO",
-                "name": "Pyro",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1739,
-            "code": "PYRO.JUMPPOINTS.NYX",
-            "designation": "Pyro - Nyx",
-            "name": null,
-            "star_system_id": 318,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 318,
-                "code": "PYRO",
-                "name": "Pyro",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1719,
-            "code": "TERRA.JUMPPOINTS.PYRO",
-            "designation": "Terra - Pyro",
-            "name": null,
-            "star_system_id": 316,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 316,
-                "code": "TERRA",
-                "name": "Terra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1710,
-            "code": "NYX.JUMPPOINTS.PYRO",
-            "designation": "Nyx - Pyro",
-            "name": null,
-            "star_system_id": 315,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 315,
-                "code": "NYX",
-                "name": "Nyx",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1689,
-            "code": "STANTON.JUMPPOINTS.PYRO",
-            "designation": "Stanton - Pyro",
-            "name": null,
-            "star_system_id": 314,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 314,
-                "code": "STANTON",
-                "name": "Stanton",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1758,
             "code": "MAGNUS.STARS.MAGNUS",
             "designation": "Magnus",
@@ -4366,69 +4216,9 @@
             }
         },
         {
-            "id": 1690,
-            "code": "STANTON.JUMPPOINTS.MAGNUS",
-            "designation": "Stanton - Magnus",
-            "name": null,
-            "star_system_id": 314,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 314,
-                "code": "STANTON",
-                "name": "Stanton",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1718,
-            "code": "TERRA.JUMPPOINTS.MAGNUS",
-            "designation": "Terra - Magnus",
-            "name": null,
-            "star_system_id": 316,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 316,
-                "code": "TERRA",
-                "name": "Terra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1755,
             "code": "MAGNUS.JUMPPOINTS.ELLIS",
             "designation": "Magnus - Ellis",
-            "name": null,
-            "star_system_id": 319,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 319,
-                "code": "MAGNUS",
-                "name": "Magnus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1756,
-            "code": "MAGNUS.JUMPPOINTS.TERRA",
-            "designation": "Magnus - Terra",
-            "name": null,
-            "star_system_id": 319,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 319,
-                "code": "MAGNUS",
-                "name": "Magnus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1757,
-            "code": "MAGNUS.JUMPPOINTS.STANTON",
-            "designation": "Magnus - Stanton",
             "name": null,
             "star_system_id": 319,
             "status": "P",
@@ -4846,21 +4636,6 @@
             }
         },
         {
-            "id": 1790,
-            "code": "TARANIS.JUMPPOINTS.TERRA",
-            "designation": "Taranis - Terra",
-            "name": null,
-            "star_system_id": 321,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 321,
-                "code": "TARANIS",
-                "name": "Taranis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1791,
             "code": "TARANIS.JUMPPOINTS.HELIOS",
             "designation": "Taranis - Helios",
@@ -4932,21 +4707,6 @@
                 "id": 321,
                 "code": "TARANIS",
                 "name": "Taranis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1729,
-            "code": "TERRA.JUMPPOINTS.TARANIS",
-            "designation": "Terra - Taranis",
-            "name": null,
-            "star_system_id": 316,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 316,
-                "code": "TERRA",
-                "name": "Terra",
                 "type": "SINGLE_STAR"
             }
         },
@@ -5063,66 +4823,6 @@
             "star_system_id": 322,
             "status": "P",
             "type": "ASTEROID_BELT",
-            "star_system": {
-                "id": 322,
-                "code": "VEGA",
-                "name": "Vega",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1730,
-            "code": "VIRGIL.JUMPPOINTS.VEGA",
-            "designation": "Virgil - Vega",
-            "name": null,
-            "star_system_id": 317,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 317,
-                "code": "VIRGIL",
-                "name": "Virgil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1778,
-            "code": "NUL.JUMPPOINTS.VEGA",
-            "designation": "Nul - Vega",
-            "name": null,
-            "star_system_id": 320,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 320,
-                "code": "NUL",
-                "name": "Nul",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1794,
-            "code": "VEGA.JUMPPOINTS.NUL",
-            "designation": "Vega - Nul",
-            "name": null,
-            "star_system_id": 322,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 322,
-                "code": "VEGA",
-                "name": "Vega",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1795,
-            "code": "VEGA.JUMPPOINTS.VIRGIL",
-            "designation": "Vega - Virgil",
-            "name": null,
-            "star_system_id": 322,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 322,
                 "code": "VEGA",
@@ -5476,21 +5176,6 @@
             }
         },
         {
-            "id": 1779,
-            "code": "TARANIS.JUMPPOINTS.ELLIS",
-            "designation": "Taranis - Ellis",
-            "name": null,
-            "star_system_id": 321,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 321,
-                "code": "TARANIS",
-                "name": "Taranis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2069,
             "code": "NEXUS.JUMPPOINTS.ELLIS",
             "designation": "Nexus - Ellis",
@@ -5536,39 +5221,9 @@
             }
         },
         {
-            "id": 1824,
-            "code": "ELLIS.JUMPPOINTS.TARANIS",
-            "designation": "Ellis - Taranis",
-            "name": null,
-            "star_system_id": 323,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 323,
-                "code": "ELLIS",
-                "name": "Ellis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1823,
             "code": "ELLIS.JUMPPOINTS.MIN",
             "designation": "Ellis - Min",
-            "name": null,
-            "star_system_id": 323,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 323,
-                "code": "ELLIS",
-                "name": "Ellis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1822,
-            "code": "ELLIS.JUMPPOINTS.MAGNUS",
-            "designation": "Ellis - Magnus",
             "name": null,
             "star_system_id": 323,
             "status": "P",
@@ -5607,21 +5262,6 @@
                 "id": 323,
                 "code": "ELLIS",
                 "name": "Ellis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1755,
-            "code": "MAGNUS.JUMPPOINTS.ELLIS",
-            "designation": "Magnus - Ellis",
-            "name": null,
-            "star_system_id": 319,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 319,
-                "code": "MAGNUS",
-                "name": "Magnus",
                 "type": "SINGLE_STAR"
             }
         },
@@ -5731,39 +5371,9 @@
             }
         },
         {
-            "id": 1713,
-            "code": "NYX.JUMPPOINTS.ODIN",
-            "designation": "Nyx - Odin",
-            "name": null,
-            "star_system_id": 315,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 315,
-                "code": "NYX",
-                "name": "Nyx",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1825,
             "code": "ODIN.JUMPPOINTS.KELLOG",
             "designation": "Odin - Kellog",
-            "name": null,
-            "star_system_id": 324,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 324,
-                "code": "ODIN",
-                "name": "Odin",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1831,
-            "code": "ODIN.JUMPPOINTS.NYX",
-            "designation": "Odin - Nyx",
             "name": null,
             "star_system_id": 324,
             "status": "P",
@@ -5911,21 +5521,6 @@
             }
         },
         {
-            "id": 1791,
-            "code": "TARANIS.JUMPPOINTS.HELIOS",
-            "designation": "Taranis - Helios",
-            "name": null,
-            "star_system_id": 321,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 321,
-                "code": "TARANIS",
-                "name": "Taranis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1832,
             "code": "HELIOS.JUMPPOINTS.TYROL",
             "designation": "Helios - Tyrol",
@@ -5959,21 +5554,6 @@
             "id": 1834,
             "code": "HELIOS.JUMPPOINTS.GOSS",
             "designation": "Helios - Goss",
-            "name": null,
-            "star_system_id": 325,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 325,
-                "code": "HELIOS",
-                "name": "Helios",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1835,
-            "code": "HELIOS.JUMPPOINTS.TARANIS",
-            "designation": "Helios - Taranis",
             "name": null,
             "star_system_id": 325,
             "status": "P",
@@ -6136,69 +5716,9 @@
             }
         },
         {
-            "id": 1734,
-            "code": "VIRGIL.JUMPPOINTS.KELLOG",
-            "designation": "Virgil - Kellog",
-            "name": null,
-            "star_system_id": 317,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 317,
-                "code": "VIRGIL",
-                "name": "Virgil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1825,
-            "code": "ODIN.JUMPPOINTS.KELLOG",
-            "designation": "Odin - Kellog",
-            "name": null,
-            "star_system_id": 324,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 324,
-                "code": "ODIN",
-                "name": "Odin",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1842,
-            "code": "KELLOG.JUMPPOINTS.VIRGIL",
-            "designation": "Kellog - Virgil",
-            "name": null,
-            "star_system_id": 326,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 326,
-                "code": "KELLOG",
-                "name": "Kellog",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1843,
             "code": "KELLOG.JUMPPOINTS.VECTOR",
             "designation": "Kellog - Vector",
-            "name": null,
-            "star_system_id": 326,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 326,
-                "code": "KELLOG",
-                "name": "Kellog",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1844,
-            "code": "KELLOG.JUMPPOINTS.ODIN",
-            "designation": "Kellog - Odin",
             "name": null,
             "star_system_id": 326,
             "status": "P",
@@ -6308,36 +5828,6 @@
             "star_system_id": 327,
             "status": "P",
             "type": "ASTEROID_BELT",
-            "star_system": {
-                "id": 327,
-                "code": "TIBER",
-                "name": "Tiber",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1731,
-            "code": "VIRGIL.JUMPPOINTS.TIBER",
-            "designation": "Virgil - Tiber",
-            "name": null,
-            "star_system_id": 317,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 317,
-                "code": "VIRGIL",
-                "name": "Virgil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1847,
-            "code": "TIBER.JUMPPOINTS.VIRGIL",
-            "designation": "Tiber - Virgil",
-            "name": null,
-            "star_system_id": 327,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 327,
                 "code": "TIBER",
@@ -6856,69 +6346,9 @@
             }
         },
         {
-            "id": 1702,
-            "code": "NYX.JUMPPOINTS.BREMEN",
-            "designation": "Nyx - Bremen",
-            "name": null,
-            "star_system_id": 315,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 315,
-                "code": "NYX",
-                "name": "Nyx",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1797,
-            "code": "VEGA.JUMPPOINTS.BREMEN",
-            "designation": "Vega - Bremen",
-            "name": null,
-            "star_system_id": 322,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 322,
-                "code": "VEGA",
-                "name": "Vega",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1872,
-            "code": "BREMEN.JUMPPOINTS.VEGA",
-            "designation": "Bremen - Vega",
-            "name": null,
-            "star_system_id": 331,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 331,
-                "code": "BREMEN",
-                "name": "Bremen",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1873,
             "code": "BREMEN.JUMPPOINTS.KALLIS",
             "designation": "Bremen - Kallis",
-            "name": null,
-            "star_system_id": 331,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 331,
-                "code": "BREMEN",
-                "name": "Bremen",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1874,
-            "code": "BREMEN.JUMPPOINTS.NYX",
-            "designation": "Bremen - Nyx",
             "name": null,
             "star_system_id": 331,
             "status": "P",
@@ -7081,39 +6511,9 @@
             }
         },
         {
-            "id": 1742,
-            "code": "PYRO.JUMPPOINTS.OSO",
-            "designation": "Pyro - Oso",
-            "name": null,
-            "star_system_id": 318,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 318,
-                "code": "PYRO",
-                "name": "Pyro",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1876,
             "code": "OSO.JUMPPOINTS.KALLIS",
             "designation": "Oso - Kallis",
-            "name": null,
-            "star_system_id": 332,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 332,
-                "code": "OSO",
-                "name": "Oso",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1877,
-            "code": "OSO.JUMPPOINTS.PYRO",
-            "designation": "Oso - Pyro",
             "name": null,
             "star_system_id": 332,
             "status": "P",
@@ -7261,39 +6661,9 @@
             }
         },
         {
-            "id": 1715,
-            "code": "TERRA.JUMPPOINTS.TAYAC",
-            "designation": "Terra - Tayac",
-            "name": null,
-            "star_system_id": 316,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 316,
-                "code": "TERRA",
-                "name": "Terra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1889,
             "code": "TAYAC.JUMPPOINTS.BAKER",
             "designation": "Tayac - Baker",
-            "name": null,
-            "star_system_id": 333,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 333,
-                "code": "TAYAC",
-                "name": "Tayac",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1890,
-            "code": "TAYAC.JUMPPOINTS.TERRA",
-            "designation": "Tayac - Terra",
             "name": null,
             "star_system_id": 333,
             "status": "P",
@@ -7411,36 +6781,6 @@
             }
         },
         {
-            "id": 1845,
-            "code": "KELLOG.JUMPPOINTS.CHRONOS",
-            "designation": "Kellog - Chronos",
-            "name": null,
-            "star_system_id": 326,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 326,
-                "code": "KELLOG",
-                "name": "Kellog",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1894,
-            "code": "CHRONOS.JUMPPOINTS.KELLOG",
-            "designation": "Chronos - Kellog",
-            "name": null,
-            "star_system_id": 334,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 334,
-                "code": "CHRONOS",
-                "name": "Chronos",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1895,
             "code": "CHRONOS.JUMPPOINTS.BRANAUGH",
             "designation": "Chronos - Branaugh",
@@ -7467,21 +6807,6 @@
                 "id": 416,
                 "code": "BRANAUGH",
                 "name": "Branaugh",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1750,
-            "code": "PYRO.PLANETS.PYROVI",
-            "designation": "Pyro VI",
-            "name": "Terminus",
-            "star_system_id": 318,
-            "status": "P",
-            "type": "PLANET",
-            "star_system": {
-                "id": 318,
-                "code": "PYRO",
-                "name": "Pyro",
                 "type": "SINGLE_STAR"
             }
         },
@@ -7561,39 +6886,9 @@
             }
         },
         {
-            "id": 1823,
-            "code": "ELLIS.JUMPPOINTS.MIN",
-            "designation": "Ellis - Min",
-            "name": null,
-            "star_system_id": 323,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 323,
-                "code": "ELLIS",
-                "name": "Ellis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1899,
             "code": "MIN.JUMPPOINTS.NEXUS",
             "designation": "Min - Nexus",
-            "name": null,
-            "star_system_id": 335,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 335,
-                "code": "MIN",
-                "name": "Min",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1918,
-            "code": "MIN.JUMPPOINTS.ELLIS",
-            "designation": "Min - Ellis",
             "name": null,
             "star_system_id": 335,
             "status": "P",
@@ -7816,66 +7111,6 @@
             }
         },
         {
-            "id": 1873,
-            "code": "BREMEN.JUMPPOINTS.KALLIS",
-            "designation": "Bremen - Kallis",
-            "name": null,
-            "star_system_id": 331,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 331,
-                "code": "BREMEN",
-                "name": "Bremen",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1904,
-            "code": "KALLIS.JUMPPOINTS.OSO",
-            "designation": "Kallis - Oso",
-            "name": null,
-            "star_system_id": 336,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 336,
-                "code": "KALLIS",
-                "name": "Kallis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1903,
-            "code": "KALLIS.JUMPPOINTS.BREMEN",
-            "designation": "Kallis - Bremen",
-            "name": null,
-            "star_system_id": 336,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 336,
-                "code": "KALLIS",
-                "name": "Kallis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1876,
-            "code": "OSO.JUMPPOINTS.KALLIS",
-            "designation": "Oso - Kallis",
-            "name": null,
-            "star_system_id": 332,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 332,
-                "code": "OSO",
-                "name": "Oso",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1911,
             "code": "CASTRA.STARS.CASTRA",
             "designation": "Castra",
@@ -7921,66 +7156,6 @@
             }
         },
         {
-            "id": 1701,
-            "code": "NYX.JUMPPOINTS.CASTRA",
-            "designation": "Nyx - Castra",
-            "name": null,
-            "star_system_id": 315,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 315,
-                "code": "NYX",
-                "name": "Nyx",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1743,
-            "code": "PYRO.JUMPPOINTS.CASTRA",
-            "designation": "Pyro - Castra",
-            "name": null,
-            "star_system_id": 318,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 318,
-                "code": "PYRO",
-                "name": "Pyro",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1878,
-            "code": "OSO.JUMPPOINTS.CASTRA",
-            "designation": "Oso - Castra",
-            "name": null,
-            "star_system_id": 332,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 332,
-                "code": "OSO",
-                "name": "Oso",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1906,
-            "code": "CASTRA.JUMPPOINTS.PYRO",
-            "designation": "Castra - Pyro",
-            "name": null,
-            "star_system_id": 337,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 337,
-                "code": "CASTRA",
-                "name": "Castra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1907,
             "code": "CASTRA.JUMPPOINTS.OYA",
             "designation": "Castra - Oya",
@@ -7999,36 +7174,6 @@
             "id": 1908,
             "code": "CASTRA.JUMPPOINTS.HADRIAN",
             "designation": "Castra - Hadrian",
-            "name": null,
-            "star_system_id": 337,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 337,
-                "code": "CASTRA",
-                "name": "Castra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1909,
-            "code": "CASTRA.JUMPPOINTS.NYX",
-            "designation": "Castra - Nyx",
-            "name": null,
-            "star_system_id": 337,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 337,
-                "code": "CASTRA",
-                "name": "Castra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1910,
-            "code": "CASTRA.JUMPPOINTS.OSO",
-            "designation": "Castra - Oso",
             "name": null,
             "star_system_id": 337,
             "status": "P",
@@ -8581,36 +7726,6 @@
             }
         },
         {
-            "id": 1922,
-            "code": "CALIBAN.JUMPPOINTS.NUL",
-            "designation": "Caliban - Nul",
-            "name": null,
-            "star_system_id": 339,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 339,
-                "code": "CALIBAN",
-                "name": "Caliban",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1766,
-            "code": "NUL.JUMPPOINTS.CALIBAN",
-            "designation": "Nul - Caliban",
-            "name": null,
-            "star_system_id": 320,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 320,
-                "code": "NUL",
-                "name": "Nul",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1931,
             "code": "DAVIEN.STARS.DAVIEN",
             "designation": "Davien",
@@ -8941,51 +8056,6 @@
             }
         },
         {
-            "id": 1853,
-            "code": "OSIRIS.JUMPPOINTS.BAKER",
-            "designation": "Osiris - Baker",
-            "name": null,
-            "star_system_id": 328,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 328,
-                "code": "OSIRIS",
-                "name": "Osiris",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1889,
-            "code": "TAYAC.JUMPPOINTS.BAKER",
-            "designation": "Tayac - Baker",
-            "name": null,
-            "star_system_id": 333,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 333,
-                "code": "TAYAC",
-                "name": "Tayac",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1943,
-            "code": "BAKER.JUMPPOINTS.TAYAC",
-            "designation": "Baker - Tayac",
-            "name": null,
-            "star_system_id": 342,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 342,
-                "code": "BAKER",
-                "name": "Baker",
-                "type": "BINARY"
-            }
-        },
-        {
             "id": 1944,
             "code": "BAKER.JUMPPOINTS.KIEL",
             "designation": "Baker - Kiel",
@@ -9004,21 +8074,6 @@
             "id": 1945,
             "code": "BAKER.JUMPPOINTS.HADUR",
             "designation": "Baker - Yā’mon (Hadur)",
-            "name": null,
-            "star_system_id": 342,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 342,
-                "code": "BAKER",
-                "name": "Baker",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 1946,
-            "code": "BAKER.JUMPPOINTS.OSIRIS",
-            "designation": "Baker - Osiris",
             "name": null,
             "star_system_id": 342,
             "status": "P",
@@ -9316,21 +8371,6 @@
             }
         },
         {
-            "id": 1804,
-            "code": "ELLIS.JUMPPOINTS.KILIAN",
-            "designation": "Ellis - Kilian",
-            "name": null,
-            "star_system_id": 323,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 323,
-                "code": "ELLIS",
-                "name": "Ellis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1955,
             "code": "KILIAN.JUMPPOINTS.CATHCART",
             "designation": "Kilian - Cathcart",
@@ -9342,51 +8382,6 @@
                 "id": 344,
                 "code": "KILIAN",
                 "name": "Kilian",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1954,
-            "code": "KILIAN.JUMPPOINTS.DAVIEN",
-            "designation": "Kilian - Davien",
-            "name": null,
-            "star_system_id": 344,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 344,
-                "code": "KILIAN",
-                "name": "Kilian",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1953,
-            "code": "KILIAN.JUMPPOINTS.ELLIS",
-            "designation": "Kilian - Ellis",
-            "name": null,
-            "star_system_id": 344,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 344,
-                "code": "KILIAN",
-                "name": "Kilian",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1928,
-            "code": "DAVIEN.JUMPPOINTS.KILIAN",
-            "designation": "Davien - Kilian",
-            "name": null,
-            "star_system_id": 340,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 340,
-                "code": "DAVIEN",
-                "name": "Davien",
                 "type": "SINGLE_STAR"
             }
         },
@@ -9473,36 +8468,6 @@
             "star_system_id": 346,
             "status": "P",
             "type": "PLANET",
-            "star_system": {
-                "id": 346,
-                "code": "BANSHEE",
-                "name": "Banshee",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1859,
-            "code": "FORA.JUMPPOINTS.BANSHEE",
-            "designation": "Fora - Banshee",
-            "name": null,
-            "star_system_id": 329,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 329,
-                "code": "FORA",
-                "name": "Fora",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1978,
-            "code": "BANSHEE.JUMPPOINTS.FORA",
-            "designation": "Banshee - Fora",
-            "name": null,
-            "star_system_id": 346,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 346,
                 "code": "BANSHEE",
@@ -9796,21 +8761,6 @@
             }
         },
         {
-            "id": 1832,
-            "code": "HELIOS.JUMPPOINTS.TYROL",
-            "designation": "Helios - Tyrol",
-            "name": null,
-            "star_system_id": 325,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 325,
-                "code": "HELIOS",
-                "name": "Helios",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2315,
             "code": "CHARON.JUMPPOINTS.TYROL",
             "designation": "Charon - Tyrol",
@@ -9844,21 +8794,6 @@
             "id": 1986,
             "code": "TYROL.JUMPPOINTS.GOSS",
             "designation": "Tyrol - Goss",
-            "name": null,
-            "star_system_id": 347,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 347,
-                "code": "TYROL",
-                "name": "Tyrol",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1985,
-            "code": "TYROL.JUMPPOINTS.HELIOS",
-            "designation": "Tyrol - Helios",
             "name": null,
             "star_system_id": 347,
             "status": "P",
@@ -10021,156 +8956,6 @@
             }
         },
         {
-            "id": 2831,
-            "code": "OBERON.JUMPPOINTS.NUL",
-            "designation": "Oberon - Nul",
-            "name": null,
-            "star_system_id": 348,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 348,
-                "code": "OBERON",
-                "name": "Oberon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1733,
-            "code": "VIRGIL.JUMPPOINTS.OBERON",
-            "designation": "Virgil - Oberon",
-            "name": null,
-            "star_system_id": 317,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 317,
-                "code": "VIRGIL",
-                "name": "Virgil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2830,
-            "code": "NUL.JUMPPOINTS.OBERON",
-            "designation": "Nul - Oberon",
-            "name": null,
-            "star_system_id": 320,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 320,
-                "code": "NUL",
-                "name": "Nul",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1992,
-            "code": "OBERON.JUMPPOINTS.VEGA",
-            "designation": "Oberon - Vega",
-            "name": null,
-            "star_system_id": 348,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 348,
-                "code": "OBERON",
-                "name": "Oberon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1990,
-            "code": "OBERON.JUMPPOINTS.CALIBAN",
-            "designation": "Oberon - Caliban",
-            "name": null,
-            "star_system_id": 348,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 348,
-                "code": "OBERON",
-                "name": "Oberon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1989,
-            "code": "OBERON.JUMPPOINTS.VIRGIL",
-            "designation": "Oberon - Virgil",
-            "name": null,
-            "star_system_id": 348,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 348,
-                "code": "OBERON",
-                "name": "Oberon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1988,
-            "code": "OBERON.JUMPPOINTS.TIBER",
-            "designation": "Oberon - Tiber",
-            "name": null,
-            "star_system_id": 348,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 348,
-                "code": "OBERON",
-                "name": "Oberon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1926,
-            "code": "CALIBAN.JUMPPOINTS.OBERON",
-            "designation": "Caliban - Oberon",
-            "name": null,
-            "star_system_id": 339,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 339,
-                "code": "CALIBAN",
-                "name": "Caliban",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1850,
-            "code": "TIBER.JUMPPOINTS.OBERON",
-            "designation": "Tiber - Oberon",
-            "name": null,
-            "star_system_id": 327,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 327,
-                "code": "TIBER",
-                "name": "Tiber",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1796,
-            "code": "VEGA.JUMPPOINTS.OBERON",
-            "designation": "Vega - Oberon",
-            "name": null,
-            "star_system_id": 322,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 322,
-                "code": "VEGA",
-                "name": "Vega",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1999,
             "code": "RHETOR.STARS.RHETOR",
             "designation": "Rhetor",
@@ -10261,21 +9046,6 @@
             }
         },
         {
-            "id": 1856,
-            "code": "FORA.JUMPPOINTS.RHETOR",
-            "designation": "Fora - Rhetor",
-            "name": null,
-            "star_system_id": 329,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 329,
-                "code": "FORA",
-                "name": "Fora",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 1994,
             "code": "RHETOR.JUMPPOINTS.CROSHAW",
             "designation": "Rhetor - Croshaw",
@@ -10294,21 +9064,6 @@
             "id": 1995,
             "code": "RHETOR.JUMPPOINTS.IDRIS",
             "designation": "Rhetor - Idris",
-            "name": null,
-            "star_system_id": 349,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 349,
-                "code": "RHETOR",
-                "name": "Rhetor",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1996,
-            "code": "RHETOR.JUMPPOINTS.FORA",
-            "designation": "Rhetor - Fora",
             "name": null,
             "star_system_id": 349,
             "status": "P",
@@ -10606,21 +9361,6 @@
             }
         },
         {
-            "id": 2051,
-            "code": "SOL.PLANETS.OBERON",
-            "designation": "Sol 7e",
-            "name": "Oberon",
-            "star_system_id": 355,
-            "status": "P",
-            "type": "SATELLITE",
-            "star_system": {
-                "id": 355,
-                "code": "SOL",
-                "name": "Sol",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2757,
             "code": "SOL.MOONS.PHOBOS",
             "designation": "Sol 4a",
@@ -10771,21 +9511,6 @@
             }
         },
         {
-            "id": 1726,
-            "code": "TERRA.BELTS.MARISOLBELT",
-            "designation": "Terra Belt Beta",
-            "name": "Marisol Belt",
-            "star_system_id": 316,
-            "status": "P",
-            "type": "ASTEROID_BELT",
-            "star_system": {
-                "id": 316,
-                "code": "TERRA",
-                "name": "Terra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2052,
             "code": "SOL.BELTS.MAINBELT",
             "designation": "Sol Belt Alpha",
@@ -10842,36 +9567,6 @@
                 "id": 355,
                 "code": "SOL",
                 "name": "Sol",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2019,
-            "code": "SOL.JUMPPOINTS.DAVIEN",
-            "designation": "Sol - Davien",
-            "name": null,
-            "star_system_id": 355,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 355,
-                "code": "SOL",
-                "name": "Sol",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1938,
-            "code": "DAVIEN.JUMPPOINTS.SOL",
-            "designation": "Davien - Sol",
-            "name": null,
-            "star_system_id": 340,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 340,
-                "code": "DAVIEN",
-                "name": "Davien",
                 "type": "SINGLE_STAR"
             }
         },
@@ -10943,156 +9638,6 @@
             "star_system_id": 356,
             "status": "P",
             "type": "PLANET",
-            "star_system": {
-                "id": 356,
-                "code": "GOSS",
-                "name": "Goss",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 1716,
-            "code": "TERRA.JUMPPOINTS.GOSS",
-            "designation": "Terra - Goss",
-            "name": null,
-            "star_system_id": 316,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 316,
-                "code": "TERRA",
-                "name": "Terra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1834,
-            "code": "HELIOS.JUMPPOINTS.GOSS",
-            "designation": "Helios - Goss",
-            "name": null,
-            "star_system_id": 325,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 325,
-                "code": "HELIOS",
-                "name": "Helios",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1852,
-            "code": "OSIRIS.JUMPPOINTS.GOSS",
-            "designation": "Osiris - Goss",
-            "name": null,
-            "star_system_id": 328,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 328,
-                "code": "OSIRIS",
-                "name": "Osiris",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1891,
-            "code": "TAYAC.JUMPPOINTS.GOSS",
-            "designation": "Tayac - Goss",
-            "name": null,
-            "star_system_id": 333,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 333,
-                "code": "TAYAC",
-                "name": "Tayac",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1986,
-            "code": "TYROL.JUMPPOINTS.GOSS",
-            "designation": "Tyrol - Goss",
-            "name": null,
-            "star_system_id": 347,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 347,
-                "code": "TYROL",
-                "name": "Tyrol",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2054,
-            "code": "GOSS.JUMPPOINTS.OSIRIS",
-            "designation": "Goss - Osiris",
-            "name": null,
-            "star_system_id": 356,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 356,
-                "code": "GOSS",
-                "name": "Goss",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 2055,
-            "code": "GOSS.JUMPPOINTS.TAYAC",
-            "designation": "Goss - Tayac",
-            "name": null,
-            "star_system_id": 356,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 356,
-                "code": "GOSS",
-                "name": "Goss",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 2056,
-            "code": "GOSS.JUMPPOINTS.TERRA",
-            "designation": "Goss - Terra",
-            "name": null,
-            "star_system_id": 356,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 356,
-                "code": "GOSS",
-                "name": "Goss",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 2065,
-            "code": "GOSS.JUMPPOINTS.HELIOS",
-            "designation": "Goss - Helios",
-            "name": null,
-            "star_system_id": 356,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 356,
-                "code": "GOSS",
-                "name": "Goss",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 2066,
-            "code": "GOSS.JUMPPOINTS.TYROL",
-            "designation": "Goss - Tyrol",
-            "name": null,
-            "star_system_id": 356,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 356,
                 "code": "GOSS",
@@ -11206,99 +9751,9 @@
             }
         },
         {
-            "id": 1805,
-            "code": "ELLIS.JUMPPOINTS.NEXUS",
-            "designation": "Ellis - Nexus",
-            "name": null,
-            "star_system_id": 323,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 323,
-                "code": "ELLIS",
-                "name": "Ellis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1899,
-            "code": "MIN.JUMPPOINTS.NEXUS",
-            "designation": "Min - Nexus",
-            "name": null,
-            "star_system_id": 335,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 335,
-                "code": "MIN",
-                "name": "Min",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1919,
-            "code": "HADES.JUMPPOINTS.NEXUS",
-            "designation": "Hades - Nexus",
-            "name": null,
-            "star_system_id": 338,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 338,
-                "code": "HADES",
-                "name": "Hades",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2067,
             "code": "NEXUS.JUMPPOINTS.CATHCART",
             "designation": "Nexus - Cathcart",
-            "name": null,
-            "star_system_id": 357,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 357,
-                "code": "NEXUS",
-                "name": "Nexus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2068,
-            "code": "NEXUS.JUMPPOINTS.HADES",
-            "designation": "Nexus - Hades",
-            "name": null,
-            "star_system_id": 357,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 357,
-                "code": "NEXUS",
-                "name": "Nexus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2069,
-            "code": "NEXUS.JUMPPOINTS.ELLIS",
-            "designation": "Nexus - Ellis",
-            "name": null,
-            "star_system_id": 357,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 357,
-                "code": "NEXUS",
-                "name": "Nexus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2070,
-            "code": "NEXUS.JUMPPOINTS.MIN",
-            "designation": "Nexus - Min",
             "name": null,
             "star_system_id": 357,
             "status": "P",
@@ -11408,66 +9863,6 @@
             "star_system_id": 360,
             "status": "P",
             "type": "ASTEROID_BELT",
-            "star_system": {
-                "id": 360,
-                "code": "ORION",
-                "name": "Orion",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1848,
-            "code": "TIBER.JUMPPOINTS.ORION",
-            "designation": "Tiber - Orion",
-            "name": null,
-            "star_system_id": 327,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 327,
-                "code": "TIBER",
-                "name": "Tiber",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1924,
-            "code": "CALIBAN.JUMPPOINTS.ORION",
-            "designation": "Caliban - Orion",
-            "name": null,
-            "star_system_id": 339,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 339,
-                "code": "CALIBAN",
-                "name": "Caliban",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2087,
-            "code": "ORION.JUMPPOINTS.TIBER",
-            "designation": "Orion - Tiber",
-            "name": null,
-            "star_system_id": 360,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 360,
-                "code": "ORION",
-                "name": "Orion",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2088,
-            "code": "ORION.JUMPPOINTS.CALIBAN",
-            "designation": "Orion - Caliban",
-            "name": null,
-            "star_system_id": 360,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 360,
                 "code": "ORION",
@@ -11596,54 +9991,9 @@
             }
         },
         {
-            "id": 1858,
-            "code": "FORA.JUMPPOINTS.NEMO",
-            "designation": "Fora - Nemo",
-            "name": null,
-            "star_system_id": 329,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 329,
-                "code": "FORA",
-                "name": "Fora",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2093,
-            "code": "NEMO.JUMPPOINTS.HADES",
-            "designation": "Nemo - Hades",
-            "name": null,
-            "star_system_id": 361,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 361,
-                "code": "NEMO",
-                "name": "Nemo",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2094,
             "code": "NEMO.JUMPPOINTS.COREL",
             "designation": "Nemo - Corel",
-            "name": null,
-            "star_system_id": 361,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 361,
-                "code": "NEMO",
-                "name": "Nemo",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2095,
-            "code": "NEMO.JUMPPOINTS.FORA",
-            "designation": "Nemo - Fora",
             "name": null,
             "star_system_id": 361,
             "status": "P",
@@ -11667,21 +10017,6 @@
                 "id": 370,
                 "code": "COREL",
                 "name": "Corel",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2150,
-            "code": "HADES.JUMPPOINTS.NEMO",
-            "designation": "Hades - Nemo",
-            "name": null,
-            "star_system_id": 338,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 338,
-                "code": "HADES",
-                "name": "Hades",
                 "type": "SINGLE_STAR"
             }
         },
@@ -11791,39 +10126,9 @@
             }
         },
         {
-            "id": 1768,
-            "code": "NUL.JUMPPOINTS.CENTAURI",
-            "designation": "Nul - Centauri",
-            "name": null,
-            "star_system_id": 320,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 320,
-                "code": "NUL",
-                "name": "Nul",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2097,
             "code": "CENTAURI.JUMPPOINTS.ELYSIUM",
             "designation": "Centauri - Elysium",
-            "name": null,
-            "star_system_id": 362,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 362,
-                "code": "CENTAURI",
-                "name": "Centauri",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2099,
-            "code": "CENTAURI.JUMPPOINTS.NUL",
-            "designation": "Centauri - Nul",
             "name": null,
             "star_system_id": 362,
             "status": "P",
@@ -11941,21 +10246,6 @@
             }
         },
         {
-            "id": 2097,
-            "code": "CENTAURI.JUMPPOINTS.ELYSIUM",
-            "designation": "Centauri - Elysium",
-            "name": null,
-            "star_system_id": 362,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 362,
-                "code": "CENTAURI",
-                "name": "Centauri",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2101,
             "code": "ELYSIUM.JUMPPOINTS.LEIR",
             "designation": "Elysium - Leir",
@@ -11974,21 +10264,6 @@
             "id": 2102,
             "code": "ELYSIUM.JUMPPOINTS.VANGUARD",
             "designation": "Elysium - Vanguard",
-            "name": null,
-            "star_system_id": 363,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 363,
-                "code": "ELYSIUM",
-                "name": "Elysium",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2103,
-            "code": "ELYSIUM.JUMPPOINTS.CENTAURI",
-            "designation": "Elysium - Centauri",
             "name": null,
             "star_system_id": 363,
             "status": "P",
@@ -12151,69 +10426,9 @@
             }
         },
         {
-            "id": 1995,
-            "code": "RHETOR.JUMPPOINTS.IDRIS",
-            "designation": "Rhetor - Idris",
-            "name": null,
-            "star_system_id": 349,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 349,
-                "code": "RHETOR",
-                "name": "Rhetor",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2104,
-            "code": "ELYSIUM.JUMPPOINTS.IDRIS",
-            "designation": "Elysium - Idris",
-            "name": null,
-            "star_system_id": 363,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 363,
-                "code": "ELYSIUM",
-                "name": "Elysium",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2106,
             "code": "IDRIS.JUMPPOINTS.FERRON",
             "designation": "Idris - Ferron",
-            "name": null,
-            "star_system_id": 364,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 364,
-                "code": "IDRIS",
-                "name": "Idris",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2107,
-            "code": "IDRIS.JUMPPOINTS.RHETOR",
-            "designation": "Idris - Rhetor",
-            "name": null,
-            "star_system_id": 364,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 364,
-                "code": "IDRIS",
-                "name": "Idris",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2109,
-            "code": "IDRIS.JUMPPOINTS.ELYSIUM",
-            "designation": "Idris - Elysium",
             "name": null,
             "star_system_id": 364,
             "status": "P",
@@ -12338,66 +10553,6 @@
             "star_system_id": 367,
             "status": "P",
             "type": "PLANET",
-            "star_system": {
-                "id": 367,
-                "code": "FERRON",
-                "name": "Ferron",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1930,
-            "code": "DAVIEN.JUMPPOINTS.FERRON",
-            "designation": "Davien - Ferron",
-            "name": null,
-            "star_system_id": 340,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 340,
-                "code": "DAVIEN",
-                "name": "Davien",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2106,
-            "code": "IDRIS.JUMPPOINTS.FERRON",
-            "designation": "Idris - Ferron",
-            "name": null,
-            "star_system_id": 364,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 364,
-                "code": "IDRIS",
-                "name": "Idris",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2119,
-            "code": "FERRON.JUMPPOINTS.DAVIEN",
-            "designation": "Ferron - Davien",
-            "name": null,
-            "star_system_id": 367,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 367,
-                "code": "FERRON",
-                "name": "Ferron",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2120,
-            "code": "FERRON.JUMPPOINTS.IDRIS",
-            "designation": "Ferron - Idris",
-            "name": null,
-            "star_system_id": 367,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 367,
                 "code": "FERRON",
@@ -12541,126 +10696,6 @@
             }
         },
         {
-            "id": 1764,
-            "code": "NUL.JUMPPOINTS.CROSHAW",
-            "designation": "Nul - Croshaw",
-            "name": null,
-            "star_system_id": 320,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 320,
-                "code": "NUL",
-                "name": "Nul",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1994,
-            "code": "RHETOR.JUMPPOINTS.CROSHAW",
-            "designation": "Rhetor - Croshaw",
-            "name": null,
-            "star_system_id": 349,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 349,
-                "code": "RHETOR",
-                "name": "Rhetor",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2021,
-            "code": "SOL.JUMPPOINTS.CROSHAW",
-            "designation": "Sol - Croshaw",
-            "name": null,
-            "star_system_id": 355,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 355,
-                "code": "SOL",
-                "name": "Sol",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2122,
-            "code": "FERRON.JUMPPOINTS.CROSHAW",
-            "designation": "Ferron - Croshaw",
-            "name": null,
-            "star_system_id": 367,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 367,
-                "code": "FERRON",
-                "name": "Ferron",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2129,
-            "code": "CROSHAW.JUMPPOINTS.SOL",
-            "designation": "Croshaw - Sol",
-            "name": null,
-            "star_system_id": 369,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 369,
-                "code": "CROSHAW",
-                "name": "Croshaw",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2130,
-            "code": "CROSHAW.JUMPPOINTS.FERRON",
-            "designation": "Croshaw - Ferron",
-            "name": null,
-            "star_system_id": 369,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 369,
-                "code": "CROSHAW",
-                "name": "Croshaw",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2131,
-            "code": "CROSHAW.JUMPPOINTS.RHETOR",
-            "designation": "Croshaw - Rhetor",
-            "name": null,
-            "star_system_id": 369,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 369,
-                "code": "CROSHAW",
-                "name": "Croshaw",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2132,
-            "code": "CROSHAW.JUMPPOINTS.NUL",
-            "designation": "Croshaw - Nul",
-            "name": null,
-            "star_system_id": 369,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 369,
-                "code": "CROSHAW",
-                "name": "Croshaw",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2145,
             "code": "COREL.STARS.COREL",
             "designation": "Corel",
@@ -12766,21 +10801,6 @@
             }
         },
         {
-            "id": 2094,
-            "code": "NEMO.JUMPPOINTS.COREL",
-            "designation": "Nemo - Corel",
-            "name": null,
-            "star_system_id": 361,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 361,
-                "code": "NEMO",
-                "name": "Nemo",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2142,
             "code": "COREL.JUMPPOINTS.GENESIS",
             "designation": "Corel - Genesis",
@@ -12799,21 +10819,6 @@
             "id": 2143,
             "code": "COREL.JUMPPOINTS.GEDDON",
             "designation": "Corel - Geddon",
-            "name": null,
-            "star_system_id": 370,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 370,
-                "code": "COREL",
-                "name": "Corel",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2144,
-            "code": "COREL.JUMPPOINTS.NEMO",
-            "designation": "Corel - Nemo",
             "name": null,
             "star_system_id": 370,
             "status": "P",
@@ -12878,126 +10883,6 @@
             "star_system_id": 372,
             "status": "P",
             "type": "ASTEROID_BELT",
-            "star_system": {
-                "id": 372,
-                "code": "CATHCART",
-                "name": "Cathcart",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1897,
-            "code": "HADES.JUMPPOINTS.CATHCART",
-            "designation": "Hades - Cathcart",
-            "name": null,
-            "star_system_id": 338,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 338,
-                "code": "HADES",
-                "name": "Hades",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1898,
-            "code": "CATHCART.JUMPPOINTS.KILIAN",
-            "designation": "Cathcart - Kilian",
-            "name": null,
-            "star_system_id": 372,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 372,
-                "code": "CATHCART",
-                "name": "Cathcart",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1900,
-            "code": "CATHCART.JUMPPOINTS.DAVIEN",
-            "designation": "Cathcart - Davien",
-            "name": null,
-            "star_system_id": 372,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 372,
-                "code": "CATHCART",
-                "name": "Cathcart",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1939,
-            "code": "DAVIEN.JUMPPOINTS.CATHCART",
-            "designation": "Davien - Cathcart",
-            "name": null,
-            "star_system_id": 340,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 340,
-                "code": "DAVIEN",
-                "name": "Davien",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1955,
-            "code": "KILIAN.JUMPPOINTS.CATHCART",
-            "designation": "Kilian - Cathcart",
-            "name": null,
-            "star_system_id": 344,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 344,
-                "code": "KILIAN",
-                "name": "Kilian",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2067,
-            "code": "NEXUS.JUMPPOINTS.CATHCART",
-            "designation": "Nexus - Cathcart",
-            "name": null,
-            "star_system_id": 357,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 357,
-                "code": "NEXUS",
-                "name": "Nexus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2152,
-            "code": "CATHCART.JUMPPOINTS.HADES",
-            "designation": "Cathcart - Hades",
-            "name": null,
-            "star_system_id": 372,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 372,
-                "code": "CATHCART",
-                "name": "Cathcart",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2153,
-            "code": "CATHCART.JUMPPOINTS.NEXUS",
-            "designation": "Cathcart - Nexus",
-            "name": null,
-            "star_system_id": 372,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 372,
                 "code": "CATHCART",
@@ -13291,21 +11176,6 @@
             }
         },
         {
-            "id": 1945,
-            "code": "BAKER.JUMPPOINTS.HADUR",
-            "designation": "Baker - Yā’mon (Hadur)",
-            "name": null,
-            "star_system_id": 342,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 342,
-                "code": "BAKER",
-                "name": "Baker",
-                "type": "BINARY"
-            }
-        },
-        {
             "id": 2173,
             "code": "HADUR.JUMPPOINTS.INDRA",
             "designation": "Yā’mon (Hadur) - Kyuk’ya (Indra)",
@@ -13339,21 +11209,6 @@
             "id": 2175,
             "code": "HADUR.JUMPPOINTS.AYR'KA",
             "designation": "Yā’mon (Hadur) - Ail'ka",
-            "name": null,
-            "star_system_id": 377,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 377,
-                "code": "HADUR",
-                "name": "Yā’mon (Hadur)",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2176,
-            "code": "HADUR.JUMPPOINTS.BAKER",
-            "designation": "Yā’mon (Hadur) - Baker",
             "name": null,
             "star_system_id": 377,
             "status": "P",
@@ -13418,66 +11273,6 @@
             "star_system_id": 379,
             "status": "P",
             "type": "STAR",
-            "star_system": {
-                "id": 379,
-                "code": "VIKING",
-                "name": "Viking",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1923,
-            "code": "CALIBAN.JUMPPOINTS.VIKING",
-            "designation": "Caliban - Viking",
-            "name": null,
-            "star_system_id": 339,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 339,
-                "code": "CALIBAN",
-                "name": "Caliban",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2091,
-            "code": "ORION.JUMPPOINTS.VIKING",
-            "designation": "Orion - Viking",
-            "name": null,
-            "star_system_id": 360,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 360,
-                "code": "ORION",
-                "name": "Orion",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2184,
-            "code": "VIKING.JUMPPOINTS.ORION",
-            "designation": "Viking - Orion",
-            "name": null,
-            "star_system_id": 379,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 379,
-                "code": "VIKING",
-                "name": "Viking",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2185,
-            "code": "VIKING.JUMPPOINTS.CALIBAN",
-            "designation": "Viking - Caliban",
-            "name": null,
-            "star_system_id": 379,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 379,
                 "code": "VIKING",
@@ -13823,36 +11618,6 @@
             "star_system_id": 383,
             "status": "P",
             "type": "STAR",
-            "star_system": {
-                "id": 383,
-                "code": "VULTURE",
-                "name": "Vulture",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2835,
-            "code": "ORION.JUMPPOINT.VULTURE",
-            "designation": "Orion - VS-9 \"Vulture\"",
-            "name": null,
-            "star_system_id": 360,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 360,
-                "code": "ORION",
-                "name": "Orion",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2836,
-            "code": "VULTURE.JUMPPOINT.ORION",
-            "designation": "VS-9 \"Vulture\" - Orion",
-            "name": null,
-            "star_system_id": 383,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 383,
                 "code": "VULTURE",
@@ -14491,21 +12256,6 @@
             }
         },
         {
-            "id": 2171,
-            "code": "VIRTUS.JUMPPOINTS.EEALUS",
-            "designation": "La’uo (Virtus) - Eealus",
-            "name": null,
-            "star_system_id": 376,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 376,
-                "code": "VIRTUS",
-                "name": "La’uo (Virtus)",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2216,
             "code": "TRISE.JUMPPOINTS.EEALUS",
             "designation": "Trise - Eealus",
@@ -14524,21 +12274,6 @@
             "id": 2225,
             "code": "EEALUS.JUMPPOINTS.TRISE",
             "designation": "Eealus - Trise",
-            "name": null,
-            "star_system_id": 388,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 388,
-                "code": "EEALUS",
-                "name": "Eealus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2226,
-            "code": "EEALUS.JUMPPOINTS.VIRTUS",
-            "designation": "Eealus - La’uo (Virtus)",
             "name": null,
             "star_system_id": 388,
             "status": "P",
@@ -14656,96 +12391,6 @@
             }
         },
         {
-            "id": 2143,
-            "code": "COREL.JUMPPOINTS.GEDDON",
-            "designation": "Corel - Geddon",
-            "name": null,
-            "star_system_id": 370,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 370,
-                "code": "COREL",
-                "name": "Corel",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2206,
-            "code": "BACCHUS.JUMPPOINTS.GEDDON",
-            "designation": "Bacchus - Geddon",
-            "name": null,
-            "star_system_id": 384,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 384,
-                "code": "BACCHUS",
-                "name": "Bacchus",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 2233,
-            "code": "GEDDON.JUMPPOINTS.COREL",
-            "designation": "Geddon - Corel",
-            "name": null,
-            "star_system_id": 390,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 390,
-                "code": "GEDDON",
-                "name": "Geddon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2234,
-            "code": "GEDDON.JUMPPOINTS.GLIESE",
-            "designation": "Geddon - Gliese",
-            "name": null,
-            "star_system_id": 390,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 390,
-                "code": "GEDDON",
-                "name": "Geddon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2235,
-            "code": "GEDDON.JUMPPOINTS.BACCHUS",
-            "designation": "Geddon - Bacchus",
-            "name": null,
-            "star_system_id": 390,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 390,
-                "code": "GEDDON",
-                "name": "Geddon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2279,
-            "code": "GLIESE.JUMPPOINTS.GEDDON",
-            "designation": "Gliese - Geddon",
-            "name": null,
-            "star_system_id": 386,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 386,
-                "code": "GLIESE",
-                "name": "Gliese",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2241,
             "code": "VANGUARD.STARS.VANGUARD",
             "designation": "Vanguard",
@@ -14761,39 +12406,9 @@
             }
         },
         {
-            "id": 2102,
-            "code": "ELYSIUM.JUMPPOINTS.VANGUARD",
-            "designation": "Elysium - Vanguard",
-            "name": null,
-            "star_system_id": 363,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 363,
-                "code": "ELYSIUM",
-                "name": "Elysium",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2239,
             "code": "VANGUARD.JUMPPOINTS.LEIR",
             "designation": "Vanguard - Leir",
-            "name": null,
-            "star_system_id": 391,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 391,
-                "code": "VANGUARD",
-                "name": "Vanguard",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2240,
-            "code": "VANGUARD.JUMPPOINTS.ELYSIUM",
-            "designation": "Vanguard - Elysium",
             "name": null,
             "star_system_id": 391,
             "status": "P",
@@ -14986,84 +12601,9 @@
             }
         },
         {
-            "id": 1947,
-            "code": "BAKER.JUMPPOINTS.PALLAS",
-            "designation": "Baker - Th.us’ūng (Pallas)",
-            "name": null,
-            "star_system_id": 342,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 342,
-                "code": "BAKER",
-                "name": "Baker",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 2174,
-            "code": "HADUR.JUMPPOINTS.PALLAS",
-            "designation": "Yā’mon (Hadur) - Th.us’ūng (Pallas)",
-            "name": null,
-            "star_system_id": 377,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 377,
-                "code": "HADUR",
-                "name": "Yā’mon (Hadur)",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2210,
-            "code": "TAL.JUMPPOINTS.PALLAS",
-            "designation": "Tal - Th.us’ūng (Pallas)",
-            "name": null,
-            "star_system_id": 385,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 385,
-                "code": "TAL",
-                "name": "Tal",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2264,
-            "code": "PALLAS.JUMPPOINTS.BAKER",
-            "designation": "Th.us’ūng (Pallas) - Baker",
-            "name": null,
-            "star_system_id": 397,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 397,
-                "code": "PALLAS",
-                "name": "Th.us’ūng (Pallas)",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2266,
             "code": "PALLAS.JUMPPOINTS.HADUR",
             "designation": "Th.us’ūng (Pallas) - Hadur",
-            "name": null,
-            "star_system_id": 397,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 397,
-                "code": "PALLAS",
-                "name": "Th.us’ūng (Pallas)",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2267,
-            "code": "PALLAS.JUMPPOINTS.TAL",
-            "designation": "Th.us’ūng (Pallas) - Tal",
             "name": null,
             "star_system_id": 397,
             "status": "P",
@@ -15196,39 +12736,9 @@
             }
         },
         {
-            "id": 2175,
-            "code": "HADUR.JUMPPOINTS.AYR'KA",
-            "designation": "Yā’mon (Hadur) - Ail'ka",
-            "name": null,
-            "star_system_id": 377,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 377,
-                "code": "HADUR",
-                "name": "Yā’mon (Hadur)",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2269,
             "code": "AYR'KA.JUMPPOINTS.INDRA",
             "designation": "Ail'ka - Kyuk’ya (Indra)",
-            "name": null,
-            "star_system_id": 398,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 398,
-                "code": "AYR'KA",
-                "name": "Ail'ka",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2270,
-            "code": "AYR'KA.JUMPPOINTS.HADUR",
-            "designation": "Ail'ka - Yā’mon (Hadur)",
             "name": null,
             "star_system_id": 398,
             "status": "P",
@@ -15361,126 +12871,6 @@
             }
         },
         {
-            "id": 1854,
-            "code": "OSIRIS.JUMPPOINTS.INDRA",
-            "designation": "Osiris - Kyuk’ya (Indra)",
-            "name": null,
-            "star_system_id": 328,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 328,
-                "code": "OSIRIS",
-                "name": "Osiris",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2173,
-            "code": "HADUR.JUMPPOINTS.INDRA",
-            "designation": "Yā’mon (Hadur) - Kyuk’ya (Indra)",
-            "name": null,
-            "star_system_id": 377,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 377,
-                "code": "HADUR",
-                "name": "Yā’mon (Hadur)",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2192,
-            "code": "KINS.JUMPPOINTS.INDRA",
-            "designation": "Kins - Kyuk’ya (Indra)",
-            "name": null,
-            "star_system_id": 381,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 381,
-                "code": "KINS",
-                "name": "Kins",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2269,
-            "code": "AYR'KA.JUMPPOINTS.INDRA",
-            "designation": "Ail'ka - Kyuk’ya (Indra)",
-            "name": null,
-            "star_system_id": 398,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 398,
-                "code": "AYR'KA",
-                "name": "Ail'ka",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2273,
-            "code": "INDRA.JUMPPOINTS.HADUR",
-            "designation": "Kyuk’ya (Indra) - Yā’mon (Hadur)",
-            "name": null,
-            "star_system_id": 399,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 399,
-                "code": "INDRA",
-                "name": "Kyuk’ya (Indra)",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 2274,
-            "code": "INDRA.JUMPPOINTS.AYR'KA",
-            "designation": "Kyuk’ya (Indra) - Ail'ka",
-            "name": null,
-            "star_system_id": 399,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 399,
-                "code": "INDRA",
-                "name": "Kyuk’ya (Indra)",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 2275,
-            "code": "INDRA.JUMPPOINTS.OSIRIS",
-            "designation": "Kyuk’ya (Indra) - Osiris",
-            "name": null,
-            "star_system_id": 399,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 399,
-                "code": "INDRA",
-                "name": "Kyuk’ya (Indra)",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 2276,
-            "code": "INDRA.JUMPPOINTS.KINS",
-            "designation": "Kyuk’ya (Indra) - Kins",
-            "name": null,
-            "star_system_id": 399,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 399,
-                "code": "INDRA",
-                "name": "Kyuk’ya (Indra)",
-                "type": "BINARY"
-            }
-        },
-        {
             "id": 2284,
             "code": "TRISE.STARS.TRISE",
             "designation": "Trise",
@@ -15507,66 +12897,6 @@
                 "id": 400,
                 "code": "TRISE",
                 "name": "Trise",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2170,
-            "code": "VIRTUS.JUMPPOINTS.TRISE",
-            "designation": "La’uo (Virtus) - Trise",
-            "name": null,
-            "star_system_id": 376,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 376,
-                "code": "VIRTUS",
-                "name": "La’uo (Virtus)",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2215,
-            "code": "TRISE.JUMPPOINTS.VIRTUS",
-            "designation": "Trise - La’uo (Virtus)",
-            "name": null,
-            "star_system_id": 400,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 400,
-                "code": "TRISE",
-                "name": "Trise",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2216,
-            "code": "TRISE.JUMPPOINTS.EEALUS",
-            "designation": "Trise - Eealus",
-            "name": null,
-            "star_system_id": 400,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 400,
-                "code": "TRISE",
-                "name": "Trise",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2225,
-            "code": "EEALUS.JUMPPOINTS.TRISE",
-            "designation": "Eealus - Trise",
-            "name": null,
-            "star_system_id": 388,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 388,
-                "code": "EEALUS",
-                "name": "Eealus",
                 "type": "SINGLE_STAR"
             }
         },
@@ -15676,51 +13006,6 @@
             }
         },
         {
-            "id": 2197,
-            "code": "KAYFA.JUMPPOINTS.RIHLAH",
-            "designation": "Kayfa - Rihlah",
-            "name": null,
-            "star_system_id": 382,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 382,
-                "code": "KAYFA",
-                "name": "Kayfa",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2229,
-            "code": "EEALUS.JUMPPOINTS.RIHLAH",
-            "designation": "Eealus - Rihlah",
-            "name": null,
-            "star_system_id": 388,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 388,
-                "code": "EEALUS",
-                "name": "Eealus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2285,
-            "code": "RIHLAH.JUMPPOINTS.EEALUS",
-            "designation": "Rihlah - Eealus",
-            "name": null,
-            "star_system_id": 401,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 401,
-                "code": "RIHLAH",
-                "name": "Rihlah",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2287,
             "code": "RIHLAH.JUMPPOINTS.GURZIL",
             "designation": "Rihlah - Gurzil",
@@ -15739,21 +13024,6 @@
             "id": 2289,
             "code": "RIHLAH.JUMPPOINTS.HORUS",
             "designation": "Rihlah - Horus",
-            "name": null,
-            "star_system_id": 401,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 401,
-                "code": "RIHLAH",
-                "name": "Rihlah",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2290,
-            "code": "RIHLAH.JUMPPOINTS.KAYFA",
-            "designation": "Rihlah - Kayfa",
             "name": null,
             "star_system_id": 401,
             "status": "P",
@@ -15931,36 +13201,6 @@
             }
         },
         {
-            "id": 1979,
-            "code": "BANSHEE.JUMPPOINTS.YULIN",
-            "designation": "Banshee - Yulin",
-            "name": null,
-            "star_system_id": 346,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 346,
-                "code": "BANSHEE",
-                "name": "Banshee",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2292,
-            "code": "YULIN.JUMPPOINTS.BANSHEE",
-            "designation": "Yulin - Banshee",
-            "name": null,
-            "star_system_id": 402,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 402,
-                "code": "YULIN",
-                "name": "Yulin",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2293,
             "code": "YULIN.JUMPPOINTS.LEIR",
             "designation": "Yulin - Leir",
@@ -16028,66 +13268,6 @@
             "star_system_id": 406,
             "status": "P",
             "type": "STAR",
-            "star_system": {
-                "id": 406,
-                "code": "VECTOR",
-                "name": "Vector",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1843,
-            "code": "KELLOG.JUMPPOINTS.VECTOR",
-            "designation": "Kellog - Vector",
-            "name": null,
-            "star_system_id": 326,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 326,
-                "code": "KELLOG",
-                "name": "Kellog",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1849,
-            "code": "TIBER.JUMPPOINTS.VECTOR",
-            "designation": "Tiber - Vector",
-            "name": null,
-            "star_system_id": 327,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 327,
-                "code": "TIBER",
-                "name": "Tiber",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2312,
-            "code": "VECTOR.JUMPPOINTS.TIBER",
-            "designation": "Vector - Tiber",
-            "name": null,
-            "star_system_id": 406,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 406,
-                "code": "VECTOR",
-                "name": "Vector",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2313,
-            "code": "VECTOR.JUMPPOINTS.KELLOG",
-            "designation": "Vector - Kellog",
-            "name": null,
-            "star_system_id": 406,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 406,
                 "code": "VECTOR",
@@ -16231,21 +13411,6 @@
             }
         },
         {
-            "id": 2774,
-            "code": "SOL.MOONS.CHARON",
-            "designation": "Sol 9a",
-            "name": "Charon",
-            "star_system_id": 355,
-            "status": "P",
-            "type": "SATELLITE",
-            "star_system": {
-                "id": 355,
-                "code": "SOL",
-                "name": "Sol",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2534,
             "code": "CHARON.BELTS.CHARONBELTALPHAGEDINASHOBELT",
             "designation": "Charon Belt Alpha",
@@ -16276,21 +13441,6 @@
             }
         },
         {
-            "id": 2319,
-            "code": "CHARON.JUMPPOINTS.KINS",
-            "designation": "Charon - Kins",
-            "name": null,
-            "star_system_id": 407,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 407,
-                "code": "CHARON",
-                "name": "Charon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2318,
             "code": "CHARON.JUMPPOINTS.GENESIS",
             "designation": "Charon - Genesis",
@@ -16302,81 +13452,6 @@
                 "id": 407,
                 "code": "CHARON",
                 "name": "Charon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2317,
-            "code": "CHARON.JUMPPOINTS.HELIOS",
-            "designation": "Charon - Helios",
-            "name": null,
-            "star_system_id": 407,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 407,
-                "code": "CHARON",
-                "name": "Charon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2315,
-            "code": "CHARON.JUMPPOINTS.TYROL",
-            "designation": "Charon - Tyrol",
-            "name": null,
-            "star_system_id": 407,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 407,
-                "code": "CHARON",
-                "name": "Charon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2191,
-            "code": "KINS.JUMPPOINTS.CHARON",
-            "designation": "Kins - Charon",
-            "name": null,
-            "star_system_id": 381,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 381,
-                "code": "KINS",
-                "name": "Kins",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1984,
-            "code": "TYROL.JUMPPOINTS.CHARON",
-            "designation": "Tyrol - Charon",
-            "name": null,
-            "star_system_id": 347,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 347,
-                "code": "TYROL",
-                "name": "Tyrol",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1833,
-            "code": "HELIOS.JUMPPOINTS.CHARON",
-            "designation": "Helios - Charon",
-            "name": null,
-            "star_system_id": 325,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 325,
-                "code": "HELIOS",
-                "name": "Helios",
                 "type": "SINGLE_STAR"
             }
         },
@@ -16411,39 +13486,9 @@
             }
         },
         {
-            "id": 2287,
-            "code": "RIHLAH.JUMPPOINTS.GURZIL",
-            "designation": "Rihlah - Gurzil",
-            "name": null,
-            "star_system_id": 401,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 401,
-                "code": "RIHLAH",
-                "name": "Rihlah",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2321,
             "code": "GURZIL.JUMPPOINTS.OYA",
             "designation": "Gurzil - Oya",
-            "name": null,
-            "star_system_id": 408,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 408,
-                "code": "GURZIL",
-                "name": "Gurzil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2322,
-            "code": "GURZIL.JUMPPOINTS.RIHLAH",
-            "designation": "Gurzil - Rihlah",
             "name": null,
             "star_system_id": 408,
             "status": "P",
@@ -16606,96 +13651,6 @@
             }
         },
         {
-            "id": 1907,
-            "code": "CASTRA.JUMPPOINTS.OYA",
-            "designation": "Castra - Oya",
-            "name": null,
-            "star_system_id": 337,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 337,
-                "code": "CASTRA",
-                "name": "Castra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2227,
-            "code": "EEALUS.JUMPPOINTS.OYA",
-            "designation": "Eealus - Oya",
-            "name": null,
-            "star_system_id": 388,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 388,
-                "code": "EEALUS",
-                "name": "Eealus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2321,
-            "code": "GURZIL.JUMPPOINTS.OYA",
-            "designation": "Gurzil - Oya",
-            "name": null,
-            "star_system_id": 408,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 408,
-                "code": "GURZIL",
-                "name": "Gurzil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2327,
-            "code": "OYA.JUMPPOINTS.GURZIL",
-            "designation": "Oya - Gurzil",
-            "name": null,
-            "star_system_id": 409,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 409,
-                "code": "OYA",
-                "name": "Oya",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2328,
-            "code": "OYA.JUMPPOINTS.EEALUS",
-            "designation": "Oya - Eealus",
-            "name": null,
-            "star_system_id": 409,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 409,
-                "code": "OYA",
-                "name": "Oya",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2329,
-            "code": "OYA.JUMPPOINTS.CASTRA",
-            "designation": "Oya - Castra",
-            "name": null,
-            "star_system_id": 409,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 409,
-                "code": "OYA",
-                "name": "Oya",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2330,
             "code": "OYA.JUMPPOINTS.HADRIAN",
             "designation": "Oya - Hadrian",
@@ -16816,129 +13771,9 @@
             }
         },
         {
-            "id": 1980,
-            "code": "BANSHEE.JUMPPOINTS.LEIR",
-            "designation": "Banshee - Leir",
-            "name": null,
-            "star_system_id": 346,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 346,
-                "code": "BANSHEE",
-                "name": "Banshee",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2101,
-            "code": "ELYSIUM.JUMPPOINTS.LEIR",
-            "designation": "Elysium - Leir",
-            "name": null,
-            "star_system_id": 363,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 363,
-                "code": "ELYSIUM",
-                "name": "Elysium",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2239,
-            "code": "VANGUARD.JUMPPOINTS.LEIR",
-            "designation": "Vanguard - Leir",
-            "name": null,
-            "star_system_id": 391,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 391,
-                "code": "VANGUARD",
-                "name": "Vanguard",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2293,
-            "code": "YULIN.JUMPPOINTS.LEIR",
-            "designation": "Yulin - Leir",
-            "name": null,
-            "star_system_id": 402,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 402,
-                "code": "YULIN",
-                "name": "Yulin",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2333,
             "code": "LEIR.JUMPPOINTS.GARRON",
             "designation": "Leir - Garron",
-            "name": null,
-            "star_system_id": 410,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 410,
-                "code": "LEIR",
-                "name": "Leir",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2334,
-            "code": "LEIR.JUMPPOINTS.VANGUARD",
-            "designation": "Leir - Vanguard",
-            "name": null,
-            "star_system_id": 410,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 410,
-                "code": "LEIR",
-                "name": "Leir",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2335,
-            "code": "LEIR.JUMPPOINTS.BANSHEE",
-            "designation": "Leir - Banshee",
-            "name": null,
-            "star_system_id": 410,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 410,
-                "code": "LEIR",
-                "name": "Leir",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2336,
-            "code": "LEIR.JUMPPOINTS.YULIN",
-            "designation": "Leir - Yulin",
-            "name": null,
-            "star_system_id": 410,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 410,
-                "code": "LEIR",
-                "name": "Leir",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2337,
-            "code": "LEIR.JUMPPOINTS.ELYSIUM",
-            "designation": "Leir - Elysium",
             "name": null,
             "star_system_id": 410,
             "status": "P",
@@ -17086,21 +13921,6 @@
             }
         },
         {
-            "id": 2344,
-            "code": "HADRIAN.JUMPPOINTS.TERRA",
-            "designation": "Hadrian - Terra",
-            "name": null,
-            "star_system_id": 411,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 411,
-                "code": "HADRIAN",
-                "name": "Hadrian",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2367,
             "code": "KIEL.JUMPPOINTS.HADRIAN",
             "designation": "Kiel - Hadrian",
@@ -17116,51 +13936,6 @@
             }
         },
         {
-            "id": 2345,
-            "code": "HADRIAN.JUMPPOINTS.PYRO",
-            "designation": "Hadrian - Pyro",
-            "name": null,
-            "star_system_id": 411,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 411,
-                "code": "HADRIAN",
-                "name": "Hadrian",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1714,
-            "code": "TERRA.JUMPPOINTS.HADRIAN",
-            "designation": "Terra - Hadrian",
-            "name": null,
-            "star_system_id": 316,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 316,
-                "code": "TERRA",
-                "name": "Terra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2343,
-            "code": "HADRIAN.JUMPPOINTS.OYA",
-            "designation": "Hadrian - Oya",
-            "name": null,
-            "star_system_id": 411,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 411,
-                "code": "HADRIAN",
-                "name": "Hadrian",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2342,
             "code": "HADRIAN.JUMPPOINTS.KIEL",
             "designation": "Hadrian - Kiel",
@@ -17172,96 +13947,6 @@
                 "id": 411,
                 "code": "HADRIAN",
                 "name": "Hadrian",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2341,
-            "code": "HADRIAN.JUMPPOINTS.CASTRA",
-            "designation": "Hadrian - Castra",
-            "name": null,
-            "star_system_id": 411,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 411,
-                "code": "HADRIAN",
-                "name": "Hadrian",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2340,
-            "code": "HADRIAN.JUMPPOINTS.GURZIL",
-            "designation": "Hadrian - Gurzil",
-            "name": null,
-            "star_system_id": 411,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 411,
-                "code": "HADRIAN",
-                "name": "Hadrian",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2330,
-            "code": "OYA.JUMPPOINTS.HADRIAN",
-            "designation": "Oya - Hadrian",
-            "name": null,
-            "star_system_id": 409,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 409,
-                "code": "OYA",
-                "name": "Oya",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2323,
-            "code": "GURZIL.JUMPPOINTS.HADRIAN",
-            "designation": "Gurzil - Hadrian",
-            "name": null,
-            "star_system_id": 408,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 408,
-                "code": "GURZIL",
-                "name": "Gurzil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1908,
-            "code": "CASTRA.JUMPPOINTS.HADRIAN",
-            "designation": "Castra - Hadrian",
-            "name": null,
-            "star_system_id": 337,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 337,
-                "code": "CASTRA",
-                "name": "Castra",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1741,
-            "code": "PYRO.JUMPPOINTS.HADRIAN",
-            "designation": "Pyro - Hadrian",
-            "name": null,
-            "star_system_id": 318,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 318,
-                "code": "PYRO",
-                "name": "Pyro",
                 "type": "SINGLE_STAR"
             }
         },
@@ -17333,126 +14018,6 @@
             "star_system_id": 412,
             "status": "P",
             "type": "PLANET",
-            "star_system": {
-                "id": 412,
-                "code": "GARRON",
-                "name": "Garron",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1982,
-            "code": "BANSHEE.JUMPPOINTS.GARRON",
-            "designation": "Banshee - Garron",
-            "name": null,
-            "star_system_id": 346,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 346,
-                "code": "BANSHEE",
-                "name": "Banshee",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2110,
-            "code": "IDRIS.JUMPPOINTS.GARRON",
-            "designation": "Idris - Garron",
-            "name": null,
-            "star_system_id": 364,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 364,
-                "code": "IDRIS",
-                "name": "Idris",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2205,
-            "code": "BACCHUS.JUMPPOINTS.GARRON",
-            "designation": "Bacchus - Garron",
-            "name": null,
-            "star_system_id": 384,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 384,
-                "code": "BACCHUS",
-                "name": "Bacchus",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 2333,
-            "code": "LEIR.JUMPPOINTS.GARRON",
-            "designation": "Leir - Garron",
-            "name": null,
-            "star_system_id": 410,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 410,
-                "code": "LEIR",
-                "name": "Leir",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2347,
-            "code": "GARRON.JUMPPOINTS.IDRIS",
-            "designation": "Garron - Idris",
-            "name": null,
-            "star_system_id": 412,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 412,
-                "code": "GARRON",
-                "name": "Garron",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2348,
-            "code": "GARRON.JUMPPOINTS.LEIR",
-            "designation": "Garron - Leir",
-            "name": null,
-            "star_system_id": 412,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 412,
-                "code": "GARRON",
-                "name": "Garron",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2349,
-            "code": "GARRON.JUMPPOINTS.BANSHEE",
-            "designation": "Garron - Banshee",
-            "name": null,
-            "star_system_id": 412,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 412,
-                "code": "GARRON",
-                "name": "Garron",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2350,
-            "code": "GARRON.JUMPPOINTS.BACCHUS",
-            "designation": "Garron - Bacchus",
-            "name": null,
-            "star_system_id": 412,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 412,
                 "code": "GARRON",
@@ -17551,99 +14116,9 @@
             }
         },
         {
-            "id": 2198,
-            "code": "KAYFA.JUMPPOINTS.HORUS",
-            "designation": "Kayfa - Horus",
-            "name": null,
-            "star_system_id": 382,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 382,
-                "code": "KAYFA",
-                "name": "Kayfa",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2289,
-            "code": "RIHLAH.JUMPPOINTS.HORUS",
-            "designation": "Rihlah - Horus",
-            "name": null,
-            "star_system_id": 401,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 401,
-                "code": "RIHLAH",
-                "name": "Rihlah",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2324,
-            "code": "GURZIL.JUMPPOINTS.HORUS",
-            "designation": "Gurzil - Horus",
-            "name": null,
-            "star_system_id": 408,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 408,
-                "code": "GURZIL",
-                "name": "Gurzil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2353,
-            "code": "HORUS.JUMPPOINTS.RIHLAH",
-            "designation": "Horus - Rihlah",
-            "name": null,
-            "star_system_id": 413,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 413,
-                "code": "HORUS",
-                "name": "Horus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2354,
             "code": "HORUS.JUMPPOINTS.KIEL",
             "designation": "Horus - Kiel",
-            "name": null,
-            "star_system_id": 413,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 413,
-                "code": "HORUS",
-                "name": "Horus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2355,
-            "code": "HORUS.JUMPPOINTS.KAYFA",
-            "designation": "Horus - Kayfa",
-            "name": null,
-            "star_system_id": 413,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 413,
-                "code": "HORUS",
-                "name": "Horus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2358,
-            "code": "HORUS.JUMPPOINTS.GURZIL",
-            "designation": "Horus - Gurzil",
             "name": null,
             "star_system_id": 413,
             "status": "P",
@@ -17738,96 +14213,6 @@
             "star_system_id": 414,
             "status": "P",
             "type": "ASTEROID_BELT",
-            "star_system": {
-                "id": 414,
-                "code": "GENESIS",
-                "name": "Genesis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1780,
-            "code": "TARANIS.JUMPPOINTS.GENESIS",
-            "designation": "Taranis - Genesis",
-            "name": null,
-            "star_system_id": 321,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 321,
-                "code": "TARANIS",
-                "name": "Taranis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2142,
-            "code": "COREL.JUMPPOINTS.GENESIS",
-            "designation": "Corel - Genesis",
-            "name": null,
-            "star_system_id": 370,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 370,
-                "code": "COREL",
-                "name": "Corel",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2318,
-            "code": "CHARON.JUMPPOINTS.GENESIS",
-            "designation": "Charon - Genesis",
-            "name": null,
-            "star_system_id": 407,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 407,
-                "code": "CHARON",
-                "name": "Charon",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2360,
-            "code": "GENESIS.JUMPPOINTS.CHARON",
-            "designation": "Genesis - Charon",
-            "name": null,
-            "star_system_id": 414,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 414,
-                "code": "GENESIS",
-                "name": "Genesis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2361,
-            "code": "GENESIS.JUMPPOINTS.COREL",
-            "designation": "Genesis - Corel",
-            "name": null,
-            "star_system_id": 414,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 414,
-                "code": "GENESIS",
-                "name": "Genesis",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2363,
-            "code": "GENESIS.JUMPPOINTS.TARANIS",
-            "designation": "Genesis - Taranis",
-            "name": null,
-            "star_system_id": 414,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 414,
                 "code": "GENESIS",
@@ -17986,96 +14371,6 @@
             }
         },
         {
-            "id": 1944,
-            "code": "BAKER.JUMPPOINTS.KIEL",
-            "designation": "Baker - Kiel",
-            "name": null,
-            "star_system_id": 342,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 342,
-                "code": "BAKER",
-                "name": "Baker",
-                "type": "BINARY"
-            }
-        },
-        {
-            "id": 2342,
-            "code": "HADRIAN.JUMPPOINTS.KIEL",
-            "designation": "Hadrian - Kiel",
-            "name": null,
-            "star_system_id": 411,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 411,
-                "code": "HADRIAN",
-                "name": "Hadrian",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2354,
-            "code": "HORUS.JUMPPOINTS.KIEL",
-            "designation": "Horus - Kiel",
-            "name": null,
-            "star_system_id": 413,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 413,
-                "code": "HORUS",
-                "name": "Horus",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2365,
-            "code": "KIEL.JUMPPOINTS.HORUS",
-            "designation": "Kiel - Horus",
-            "name": null,
-            "star_system_id": 415,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 415,
-                "code": "KIEL",
-                "name": "Kiel",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2366,
-            "code": "KIEL.JUMPPOINTS.BAKER",
-            "designation": "Kiel - Baker",
-            "name": null,
-            "star_system_id": 415,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 415,
-                "code": "KIEL",
-                "name": "Kiel",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2367,
-            "code": "KIEL.JUMPPOINTS.HADRIAN",
-            "designation": "Kiel - Hadrian",
-            "name": null,
-            "star_system_id": 415,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 415,
-                "code": "KIEL",
-                "name": "Kiel",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2371,
             "code": "BRANAUGH.STARS.BRANAUGH",
             "designation": "Branaugh",
@@ -18158,36 +14453,6 @@
             "star_system_id": 416,
             "status": "P",
             "type": "ASTEROID_BELT",
-            "star_system": {
-                "id": 416,
-                "code": "BRANAUGH",
-                "name": "Branaugh",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1895,
-            "code": "CHRONOS.JUMPPOINTS.BRANAUGH",
-            "designation": "Chronos - Branaugh",
-            "name": null,
-            "star_system_id": 334,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 334,
-                "code": "CHRONOS",
-                "name": "Chronos",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2370,
-            "code": "BRANAUGH.JUMPPOINTS.CHRONOS",
-            "designation": "Branaugh - Chronos",
-            "name": null,
-            "star_system_id": 416,
-            "status": "P",
-            "type": "JUMPPOINT",
             "star_system": {
                 "id": 416,
                 "code": "BRANAUGH",
@@ -18286,96 +14551,6 @@
             }
         },
         {
-            "id": 1712,
-            "code": "NYX.JUMPPOINTS.TOHIL",
-            "designation": "Nyx - Tohil",
-            "name": null,
-            "star_system_id": 315,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 315,
-                "code": "NYX",
-                "name": "Nyx",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2169,
-            "code": "VIRTUS.JUMPPOINTS.TOHIL",
-            "designation": "La’uo (Virtus) - Tohil",
-            "name": null,
-            "star_system_id": 376,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 376,
-                "code": "VIRTUS",
-                "name": "La’uo (Virtus)",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2331,
-            "code": "OYA.JUMPPOINTS.TOHIL",
-            "designation": "Oya - Tohil",
-            "name": null,
-            "star_system_id": 409,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 409,
-                "code": "OYA",
-                "name": "Oya",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2372,
-            "code": "TOHIL.JUMPPOINTS.OYA",
-            "designation": "Tohil - Oya",
-            "name": null,
-            "star_system_id": 417,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 417,
-                "code": "TOHIL",
-                "name": "Tohil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2373,
-            "code": "TOHIL.JUMPPOINTS.VIRTUS",
-            "designation": "Tohil - La’uo (Virtus)",
-            "name": null,
-            "star_system_id": 417,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 417,
-                "code": "TOHIL",
-                "name": "Tohil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2374,
-            "code": "TOHIL.JUMPPOINTS.NYX",
-            "designation": "Tohil - Nyx",
-            "name": null,
-            "star_system_id": 417,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 417,
-                "code": "TOHIL",
-                "name": "Tohil",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2511,
             "code": "CANO.STAR.CANO",
             "designation": "Cano",
@@ -18466,66 +14641,6 @@
             }
         },
         {
-            "id": 2703,
-            "code": "CANO.JUMPPOINTS.PYRO",
-            "designation": "Cano - Pyro",
-            "name": null,
-            "star_system_id": 418,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 418,
-                "code": "CANO",
-                "name": "Cano",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2704,
-            "code": "PYRO.JUMPPOINTS.CANO",
-            "designation": "Pyro - Cano",
-            "name": null,
-            "star_system_id": 318,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 318,
-                "code": "PYRO",
-                "name": "Pyro",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2705,
-            "code": "CANO.JUMPPOINTS.DAVIEN",
-            "designation": "Cano - Davien",
-            "name": null,
-            "star_system_id": 418,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 418,
-                "code": "CANO",
-                "name": "Cano",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2706,
-            "code": "DAVIEN.JUMPPOINTS.CANO",
-            "designation": "Davien - Cano",
-            "name": null,
-            "star_system_id": 340,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 340,
-                "code": "DAVIEN",
-                "name": "Davien",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2516,
             "code": "KABAL.STAR.KABAL",
             "designation": "Kabal",
@@ -18601,36 +14716,6 @@
             }
         },
         {
-            "id": 2657,
-            "code": "KABAL.JUMPPOINTS.LEIR",
-            "designation": "Kabal - Leir",
-            "name": null,
-            "star_system_id": 419,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 419,
-                "code": "KABAL",
-                "name": "Kabal",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2658,
-            "code": "LEIR.JUMPPOINTS.KABAL",
-            "designation": "Leir - Kabal",
-            "name": null,
-            "star_system_id": 410,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 410,
-                "code": "LEIR",
-                "name": "Leir",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
             "id": 2525,
             "code": "TANGA.STAR.TANGA",
             "designation": "Tanga",
@@ -18642,21 +14727,6 @@
                 "id": 420,
                 "code": "TANGA",
                 "name": "Tanga",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 1837,
-            "code": "HELIOS.PLANETS.HELIOSII",
-            "designation": "Helios II",
-            "name": "Tangaroa",
-            "star_system_id": 325,
-            "status": "P",
-            "type": "PLANET",
-            "star_system": {
-                "id": 325,
-                "code": "HELIOS",
-                "name": "Helios",
                 "type": "SINGLE_STAR"
             }
         },
@@ -18702,66 +14772,6 @@
                 "id": 420,
                 "code": "TANGA",
                 "name": "Tanga",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2712,
-            "code": "TANGA.JUMPPOINTS.ODIN",
-            "designation": "Tanga - Odin",
-            "name": null,
-            "star_system_id": 420,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 420,
-                "code": "TANGA",
-                "name": "Tanga",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2713,
-            "code": "ODIN.JUMPPOINTS.TANGA",
-            "designation": "Odin - Tanga",
-            "name": null,
-            "star_system_id": 324,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 324,
-                "code": "ODIN",
-                "name": "Odin",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2714,
-            "code": "TANGA.JUMPPOINTS.BREMEN",
-            "designation": "Tanga - Bremen",
-            "name": null,
-            "star_system_id": 420,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 420,
-                "code": "TANGA",
-                "name": "Tanga",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2715,
-            "code": "BREMEN.JUMPPOINTS.TANGA",
-            "designation": "Bremen - Tanga",
-            "name": null,
-            "star_system_id": 331,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 331,
-                "code": "BREMEN",
-                "name": "Bremen",
                 "type": "SINGLE_STAR"
             }
         },
@@ -18927,36 +14937,6 @@
                 "id": 422,
                 "code": "TAMSA",
                 "name": "Tamsa",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2659,
-            "code": "TAMSA.JUMPPOINTS.BANSHEE",
-            "designation": "Tamsa - Banshee",
-            "name": null,
-            "star_system_id": 422,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 422,
-                "code": "TAMSA",
-                "name": "Tamsa",
-                "type": "SINGLE_STAR"
-            }
-        },
-        {
-            "id": 2660,
-            "code": "BANSHEE.JUMPPOINTS.TAMSA",
-            "designation": "Banshee - Tamsa",
-            "name": null,
-            "star_system_id": 346,
-            "status": "P",
-            "type": "JUMPPOINT",
-            "star_system": {
-                "id": 346,
-                "code": "BANSHEE",
-                "name": "Banshee",
                 "type": "SINGLE_STAR"
             }
         }
