@@ -34,19 +34,51 @@ const bootup = await starmapRequest("POST", baseUrl + "/bootup");
 if (!bootup) throw new Error("Failed to fetch bootup data");
 console.log("Fetched bootup");
 
-const systems = bootup.systems.resultset;
+const systems = [];
 const objects = [];
 
-console.log("ETA: " + (systems.length * 250) / 1_000 + "s");
+for (const { code } of bootup.systems.resultset) {
+	const system = (await starmapRequest("POST", baseUrl + "/star-systems/" + code))
+		?.resultset?.[0];
+	if (!system) throw new Error("Failed to fetch data for system " + code);
 
-for (const system of systems) {
-	const find = await starmapRequest("POST", baseUrl + "/find", { query: system.name });
-	if (!find) throw new Error("Failed to fetch data for system " + system.name);
-	console.log("Fetched system " + system.name);
+	systems.push({
+		id: system.id,
+		code: system.code,
+		description: system.description,
+		info_url: system.info_url,
+		name: system.name,
+		status: system.status,
+		type: system.type,
+		affiliation: system.affiliation,
+		aggregated_size: system.aggregated_size,
+		aggregated_population: system.aggregated_population,
+		aggregated_economy: system.aggregated_economy,
+		aggregated_danger: system.aggregated_danger,
+	});
 
-	objects.push(...find.objects.resultset);
+	for (const object of system.celestial_objects) {
+		objects.push({
+			id: object.id,
+			age: object.age,
+			code: object.code,
+			description: object.description,
+			designation: object.designation,
+			habitable: object.habitable,
+			info_url: object.info_url,
+			name: object.name,
+			sensor_danger: object.sensor_danger,
+			sensor_economy: object.sensor_economy,
+			sensor_population: object.sensor_population,
+			size: object.size,
+			type: object.type,
+			subtype: object.subtype,
+			affiliation: object.affiliation,
+		});
+	}
 
-	await wait(250); // Avoid sending too many requests
+	console.log("Fetched system " + code);
+	await wait(500);
 }
 
 fs.writeFile(
