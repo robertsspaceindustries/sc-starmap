@@ -74,6 +74,14 @@ for (const { code } of bootup.systems.resultset) {
 			type: object.type,
 			subtype: object.subtype,
 			affiliation: object.affiliation,
+			star_system_id: system.id,
+			star_system: {
+				id: system.id,
+				code: system.code,
+				name: system.name,
+				status: system.status,
+				type: system.type,
+			},
 		});
 	}
 
