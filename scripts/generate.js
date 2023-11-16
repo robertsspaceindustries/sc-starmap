@@ -38,8 +38,7 @@ const systems = [];
 const objects = [];
 
 for (const { code } of bootup.systems.resultset) {
-	const system = (await starmapRequest("POST", baseUrl + "/star-systems/" + code))
-		?.resultset?.[0];
+	const system = (await starmapRequest("POST", baseUrl + "/star-systems/" + code))?.resultset?.[0];
 	if (!system) throw new Error("Failed to fetch data for system " + code);
 
 	systems.push({
@@ -58,6 +57,8 @@ for (const { code } of bootup.systems.resultset) {
 	});
 
 	for (const object of system.celestial_objects) {
+		const parent = object.parent_id ? system.celestial_objects.find((parent) => parent.id === object.parent_id) : null;
+
 		objects.push({
 			id: object.id,
 			age: object.age,
@@ -82,6 +83,16 @@ for (const { code } of bootup.systems.resultset) {
 				status: system.status,
 				type: system.type,
 			},
+			parent_id: object.parent_id,
+			parent: parent
+				? {
+						id: parent.id,
+						code: parent.code,
+						designation: parent.designation,
+						name: parent.name,
+						type: parent.type,
+				  }
+				: null,
 		});
 	}
 
@@ -94,9 +105,7 @@ fs.writeFile(
 	JSON.stringify(
 		{
 			systems: systems,
-			objects: objects.filter(
-				(item, index, self) => index === self.findIndex((t) => t["id"] === item["id"]),
-			),
+			objects: objects.filter((item, index, self) => index === self.findIndex((t) => t["id"] === item["id"])),
 		},
 		undefined,
 		4, // Beautify

@@ -18,6 +18,7 @@
 		"import/extensions": ["error", "ignorePackages"],
 		"no-unused-vars": "warn",
 		"prefer-const": "warn",
-		"no-control-regex": "off"
+		"no-control-regex": "off",
+		"no-mixed-spaces-and-tabs": "off"
 	}
 }
