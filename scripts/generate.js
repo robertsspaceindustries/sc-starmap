@@ -63,6 +63,57 @@ for (const { code } of bootup.systems.resultset) {
 				? bootup.tunnels.resultset.find((tunnel) => tunnel.entry_id === object.id || tunnel.exit_id === object.id)
 				: null;
 
+		if (object.subtype?.name === "Planetary Moon") {
+			object.type = "MOON";
+			object.subtype.type = "MOON";
+			object.subtype.id = null;
+		}
+
+		if (object.type === "PLANET") {
+			const fullObject = (await starmapRequest("POST", baseUrl + "/celestial-objects/" + object.code))?.resultset?.[0];
+			if (!fullObject) console.log("Failed to get full object of " + object.code);
+			else {
+				for (const child of fullObject.children) {
+					if (["LZ"].includes(child.type)) {
+						objects.push({
+							id: child.id,
+							age: child.age,
+							code: child.code,
+							description: child.description,
+							designation: child.designation,
+							habitable: child.habitable,
+							info_url: child.info_url,
+							name: child.name,
+							sensor_danger: child.sensor_danger,
+							sensor_economy: child.sensor_economy,
+							sensor_population: child.sensor_population,
+							size: child.size,
+							type: child.type,
+							subtype: child.subtype,
+							affiliation: child.affiliation,
+							star_system_id: system.id,
+							star_system: {
+								id: system.id,
+								code: system.code,
+								name: system.name,
+								status: system.status,
+								type: system.type,
+							},
+							parent_id: object.parent_id,
+							parent: {
+								id: object.id,
+								code: object.code,
+								designation: object.designation,
+								name: object.name,
+								type: object.type,
+							},
+							tunnel: null,
+						});
+					}
+				}
+			}
+		}
+
 		objects.push({
 			id: object.id,
 			age: object.age,
