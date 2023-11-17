@@ -2117,6 +2117,40 @@
             "tunnel": null
         },
         {
+            "id": 2552,
+            "age": 0,
+            "code": "STANTON.LZS.NEWBABBAGE",
+            "description": "Enclosed to protect the inhabitants against the freezing elements, New Babbage is a major social and economic trading hub on microTech. Although it features microTech’s flagship store, the landing zone is a haven for smaller tech companies.",
+            "designation": "NewBabbage",
+            "habitable": true,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": 0,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 314,
+            "star_system": {
+                "id": 314,
+                "code": "STANTON",
+                "name": "Stanton",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 1691,
+            "parent": {
+                "id": 1692,
+                "code": "STANTON.PLANETS.STANTONIVMICROTECH",
+                "designation": "Stanton IV",
+                "name": "microTech",
+                "type": "PLANET"
+            },
+            "tunnel": null
+        },
+        {
             "id": 1692,
             "age": 0,
             "code": "STANTON.PLANETS.STANTONIVMICROTECH",
@@ -2159,6 +2193,40 @@
                 "designation": "Stanton",
                 "name": null,
                 "type": "STAR"
+            },
+            "tunnel": null
+        },
+        {
+            "id": 2553,
+            "age": 0,
+            "code": "STANTON.LZS.LORVILLE",
+            "description": "One of the many company towns Hurston has established for its employees, Lorville is the only import landing zone on the planet. While the city overlooks some of the larger strip-mining operations that are currently underway, it exists in the shadow of Central, the corporate headquarters for Hurston Dynamics.",
+            "designation": "Lorville",
+            "habitable": null,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": 0,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 314,
+            "star_system": {
+                "id": 314,
+                "code": "STANTON",
+                "name": "Stanton",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 1691,
+            "parent": {
+                "id": 1693,
+                "code": "STANTON.PLANETS.STANTONIHURSTONDYNAMICS",
+                "designation": "Stanton I",
+                "name": "Hurston",
+                "type": "PLANET"
             },
             "tunnel": null
         },
@@ -2209,6 +2277,40 @@
             "tunnel": null
         },
         {
+            "id": 2716,
+            "age": null,
+            "code": "STANTON.LZS.AREA18",
+            "description": "Area18 is one of the main commercial ports for interplanetary traffic for the surrounding region of ArcCorp. Travellers can find a variety of goods from trusted names as well as local providers, if they’re not overwhelmed by the sights and sounds of this landing zone.",
+            "designation": "Area18",
+            "habitable": true,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": null,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 314,
+            "star_system": {
+                "id": 314,
+                "code": "STANTON",
+                "name": "Stanton",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 1691,
+            "parent": {
+                "id": 1694,
+                "code": "STANTON.PLANETS.STANTONIIIARCCORP",
+                "designation": "Stanton III",
+                "name": "ArcCorp",
+                "type": "PLANET"
+            },
+            "tunnel": null
+        },
+        {
             "id": 1694,
             "age": 0,
             "code": "STANTON.PLANETS.STANTONIIIARCCORP",
@@ -2251,6 +2353,40 @@
                 "designation": "Stanton",
                 "name": null,
                 "type": "STAR"
+            },
+            "tunnel": null
+        },
+        {
+            "id": 2554,
+            "age": 0,
+            "code": "STANTON.LZS.ORISON",
+            "description": "A city in the clouds, Orison offers a breathtaking view of Crusader’s commercial ship-building platforms.",
+            "designation": "Orison",
+            "habitable": null,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": 0,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 314,
+            "star_system": {
+                "id": 314,
+                "code": "STANTON",
+                "name": "Stanton",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 1691,
+            "parent": {
+                "id": 1695,
+                "code": "STANTON.PLANETS.STANTONIICRUSADER",
+                "designation": "Stanton II",
+                "name": "Crusader",
+                "type": "PLANET"
             },
             "tunnel": null
         },
@@ -2402,11 +2538,11 @@
             "sensor_economy": "2",
             "sensor_population": "1",
             "size": 0.67,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -2440,11 +2576,11 @@
             "sensor_economy": "2",
             "sensor_population": "1",
             "size": 0.4,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -2478,11 +2614,11 @@
             "sensor_economy": "3",
             "sensor_population": "1",
             "size": 0.7,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -2744,11 +2880,11 @@
             "sensor_economy": "2",
             "sensor_population": "1",
             "size": 0.7,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -2782,11 +2918,11 @@
             "sensor_economy": "1",
             "sensor_population": "1",
             "size": 0.4,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -2820,11 +2956,11 @@
             "sensor_economy": "1",
             "sensor_population": "1",
             "size": 0.2,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -2858,11 +2994,11 @@
             "sensor_economy": "2",
             "sensor_population": "1",
             "size": 0.3,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -2896,11 +3032,11 @@
             "sensor_economy": "5",
             "sensor_population": "1",
             "size": 0.5,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -2934,11 +3070,11 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.3,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -2972,11 +3108,11 @@
             "sensor_economy": "3",
             "sensor_population": "1",
             "size": 0.6,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -3010,11 +3146,11 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.3,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -3048,11 +3184,11 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.5,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 314,
@@ -3107,7 +3243,7 @@
                 "code": "STANTON.MOONS.YELA",
                 "designation": "Stanton 2c",
                 "name": "Yela",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "tunnel": null
         },
@@ -3626,6 +3762,40 @@
             }
         },
         {
+            "id": 2730,
+            "age": null,
+            "code": "NYX.LZS.LEVSKI",
+            "description": "This mining facility was abandoned for years before UEE refugees took up residence. Dedicated to creating an egalitarian society, this group of activists wanted to build the kind of community that the Messers had taken away. Levski has evolved into a self-sustaining port of political activists and those wishing to escape the eye of the Empire.\n",
+            "designation": "Levski",
+            "habitable": null,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": null,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 315,
+            "star_system": {
+                "id": 315,
+                "code": "NYX",
+                "name": "Nyx",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 1703,
+            "parent": {
+                "id": 2626,
+                "code": "NYX.ASTEROID.DELAMAR",
+                "designation": "Delamar",
+                "name": null,
+                "type": "PLANET"
+            },
+            "tunnel": null
+        },
+        {
             "id": 2626,
             "age": null,
             "code": "NYX.ASTEROID.DELAMAR",
@@ -4081,6 +4251,40 @@
             "tunnel": null
         },
         {
+            "id": 2719,
+            "age": null,
+            "code": "TERRA.LZS.PRIME",
+            "description": "Generally cited as the pinnacle of Human environmental design, the capital city of Prime is designed to seamlessly integrate with its environment. A true mecca of fashion and art, Prime also serves as a crossroads of civilizations, even drawing upon architectural design aesthetics from the Xi’An.",
+            "designation": "Prime",
+            "habitable": null,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": null,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 316,
+            "star_system": {
+                "id": 316,
+                "code": "TERRA",
+                "name": "Terra",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 1720,
+            "parent": {
+                "id": 1723,
+                "code": "TERRA.PLANETS.TERRAIIITERRA",
+                "designation": "Terra III",
+                "name": "Terra",
+                "type": "PLANET"
+            },
+            "tunnel": null
+        },
+        {
             "id": 1723,
             "age": 0,
             "code": "TERRA.PLANETS.TERRAIIITERRA",
@@ -4501,11 +4705,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.115,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 316,
@@ -4539,11 +4743,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.237,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 316,
@@ -4577,11 +4781,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.5243,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 316,
@@ -4615,11 +4819,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.51787,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 316,
@@ -5116,11 +5320,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.0587,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
@@ -5162,11 +5366,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.0645,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
@@ -5208,11 +5412,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.0446,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
@@ -5254,11 +5458,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.1314,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
@@ -5300,11 +5504,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.066,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
@@ -6087,11 +6291,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.5,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 318,
@@ -6125,11 +6329,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.6,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 318,
@@ -6163,11 +6367,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.42,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 318,
@@ -6201,11 +6405,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.38,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 318,
@@ -6239,11 +6443,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.81,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 318,
@@ -6277,11 +6481,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.93,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 318,
@@ -6562,6 +6766,40 @@
                 "designation": "Magnus",
                 "name": null,
                 "type": "STAR"
+            },
+            "tunnel": null
+        },
+        {
+            "id": 2555,
+            "age": 0,
+            "code": "MAGNUS.LZS.ODYSSA",
+            "description": "Odyssa was once home to one of the main hubs for construction of UEE ships. As such, it was a vibrant, bustling, wealthy city-- until the UEE pulled out in favor of facilities on Kilian. The ensuing decades-long depression left deep economic scars on the populace. Drake Interplanetary recently set up their main headquarters and production facility in Odyssa's abandoned warehouses. Little by little, the city is on the mend.",
+            "designation": "Odyssa",
+            "habitable": null,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": 0,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 319,
+            "star_system": {
+                "id": 319,
+                "code": "MAGNUS",
+                "name": "Magnus",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 1758,
+            "parent": {
+                "id": 1760,
+                "code": "MAGNUS.PLANETS.MAGNUSIIBOREA",
+                "designation": "Magnus II",
+                "name": "Borea",
+                "type": "PLANET"
             },
             "tunnel": null
         },
@@ -7683,11 +7921,11 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.6,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 321,
@@ -8029,6 +8267,40 @@
             "tunnel": null
         },
         {
+            "id": 2720,
+            "age": null,
+            "code": "VEGA.LZS.NEWCORVO",
+            "description": "A bay city surrounded by deep forests and lowlands, New Corvo is generally called the 'gateway into Aremis' as this is where most of the military transports leave to go out of orbit and soldiers come for shore leave. The city was nearly destroyed during the Battle of Vega II.",
+            "designation": "New Corvo",
+            "habitable": true,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": null,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 322,
+            "star_system": {
+                "id": 322,
+                "code": "VEGA",
+                "name": "Vega",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 1798,
+            "parent": {
+                "id": 1800,
+                "code": "VEGA.PLANETS.VEGAIIAREMIS",
+                "designation": "Vega II",
+                "name": "Aremis",
+                "type": "PLANET"
+            },
+            "tunnel": null
+        },
+        {
             "id": 1800,
             "age": 0,
             "code": "VEGA.PLANETS.VEGAIIAREMIS",
@@ -8293,11 +8565,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.1478473,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 322,
@@ -8331,11 +8603,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.1308,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 322,
@@ -9368,11 +9640,11 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.351479,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
@@ -9414,11 +9686,11 @@
             "sensor_economy": "3",
             "sensor_population": "1",
             "size": 0.548491,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
@@ -9859,11 +10131,11 @@
             "sensor_economy": "1",
             "sensor_population": "1",
             "size": 0.6,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 324,
@@ -9897,11 +10169,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1.789,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 324,
@@ -10401,11 +10673,11 @@
             "sensor_economy": "0",
             "sensor_population": "1",
             "size": 1.37266,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 325,
@@ -14047,11 +14319,11 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.15,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
@@ -14093,11 +14365,11 @@
             "sensor_economy": "5",
             "sensor_population": "2",
             "size": 0.25,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 335,
@@ -14131,11 +14403,11 @@
             "sensor_economy": "1",
             "sensor_population": "1",
             "size": 0.08,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 335,
@@ -14169,11 +14441,11 @@
             "sensor_economy": "5",
             "sensor_population": "1",
             "size": 0.3,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 335,
@@ -16201,11 +16473,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.51594,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 339,
@@ -16239,11 +16511,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.691,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 339,
@@ -16277,11 +16549,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.193,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 339,
@@ -16315,11 +16587,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.5139,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 339,
@@ -16353,11 +16625,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.51562,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 339,
@@ -16391,11 +16663,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.52018,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 339,
@@ -16429,11 +16701,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.51655,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 339,
@@ -16467,11 +16739,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.1858,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 339,
@@ -16505,11 +16777,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.1919,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 339,
@@ -17014,11 +17286,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 340,
@@ -19408,11 +19680,11 @@
             "sensor_economy": "3",
             "sensor_population": "2",
             "size": null,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 347,
@@ -20722,6 +20994,108 @@
             "tunnel": null
         },
         {
+            "id": 2566,
+            "age": 0,
+            "code": "SOL.LZS.NEWYORK",
+            "description": "Old world architecture stands beside modern design aesthetics along the labyrinthine streets of this historic city. New York is not only the political center of the Empire, but a highly influential beacon for culture, technology and commerce. ",
+            "designation": "New York",
+            "habitable": null,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": 0,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 355,
+            "star_system": {
+                "id": 355,
+                "code": "SOL",
+                "name": "Sol",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 2023,
+            "parent": {
+                "id": 2026,
+                "code": "SOL.PLANETS.EARTH",
+                "designation": "Sol III",
+                "name": "Earth",
+                "type": "PLANET"
+            },
+            "tunnel": null
+        },
+        {
+            "id": 2567,
+            "age": 0,
+            "code": "SOL.LZS.MOSCOW",
+            "description": "The inspiration behind the adage “you can find anything somewhere,” Moscow is one of the largest trading hubs on Earth. A neverending stream of goods pulse through the ports of the city, giving it a perpetual energy and feeling of a town on the move. Moscow is also the current home to the Governors Council.",
+            "designation": "Moscow",
+            "habitable": null,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": 0,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 355,
+            "star_system": {
+                "id": 355,
+                "code": "SOL",
+                "name": "Sol",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 2023,
+            "parent": {
+                "id": 2026,
+                "code": "SOL.PLANETS.EARTH",
+                "designation": "Sol III",
+                "name": "Earth",
+                "type": "PLANET"
+            },
+            "tunnel": null
+        },
+        {
+            "id": 2568,
+            "age": 0,
+            "code": "SOL.LZS.SHANGHAI",
+            "description": "While home to the largest starport in the State of Asiatica, Shanghai began to redesign their city to bring an element of nature back into the superstructures and skyscrapers, following a movement to restore some of the sitting gardens and parks lost to overpopulation during the 22nd century.",
+            "designation": "Shanghai",
+            "habitable": null,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": 0,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 355,
+            "star_system": {
+                "id": 355,
+                "code": "SOL",
+                "name": "Sol",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 2023,
+            "parent": {
+                "id": 2026,
+                "code": "SOL.PLANETS.EARTH",
+                "designation": "Sol III",
+                "name": "Earth",
+                "type": "PLANET"
+            },
+            "tunnel": null
+        },
+        {
             "id": 2026,
             "age": 0,
             "code": "SOL.PLANETS.EARTH",
@@ -20764,6 +21138,40 @@
                 "designation": "Sol",
                 "name": null,
                 "type": "STAR"
+            },
+            "tunnel": null
+        },
+        {
+            "id": 2569,
+            "age": 0,
+            "code": "SOL.LZS.PORTRETANUS",
+            "description": "Built around the first settlement on Mars, Port Renatus is the oldest non-Earth city in history. Described as a living museum, this modular city has elements from Humanity’s entire evolution through the stars represented somewhere in the city.",
+            "designation": "Port Renatus",
+            "habitable": null,
+            "info_url": null,
+            "name": null,
+            "sensor_danger": "0",
+            "sensor_economy": "0",
+            "sensor_population": "0",
+            "size": 0,
+            "type": "LZ",
+            "subtype": null,
+            "affiliation": [],
+            "star_system_id": 355,
+            "star_system": {
+                "id": 355,
+                "code": "SOL",
+                "name": "Sol",
+                "status": "P",
+                "type": "SINGLE_STAR"
+            },
+            "parent_id": 2023,
+            "parent": {
+                "id": 2027,
+                "code": "SOL.PLANETS.MARS",
+                "designation": "Sol IV",
+                "name": "Mars",
+                "type": "PLANET"
             },
             "tunnel": null
         },
@@ -21056,11 +21464,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21094,11 +21502,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21132,11 +21540,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21170,11 +21578,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21208,11 +21616,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21398,11 +21806,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21436,11 +21844,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21474,11 +21882,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21512,11 +21920,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21550,11 +21958,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21588,11 +21996,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.3,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21626,11 +22034,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.6,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21664,11 +22072,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.65,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21702,11 +22110,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.8,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21740,11 +22148,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.75,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -21921,7 +22329,7 @@
                 "code": "SOL.PLANETS.GANYMEDE",
                 "designation": "Sol 5c",
                 "name": "Ganymede",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "tunnel": null
         },
@@ -21984,11 +22392,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.11,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -22022,11 +22430,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.062,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -22060,11 +22468,11 @@
             "sensor_economy": "1",
             "sensor_population": "1",
             "size": 1.604,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 355,
@@ -32444,11 +32852,11 @@
             "sensor_economy": "7",
             "sensor_population": "4",
             "size": 0.5,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
@@ -34520,11 +34928,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.5,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
@@ -34566,11 +34974,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.52,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
@@ -34612,11 +35020,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.52,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [],
             "star_system_id": 407,
@@ -38483,11 +38891,11 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "SATELLITE",
+            "type": "MOON",
             "subtype": {
-                "id": 52,
+                "id": null,
                 "name": "Planetary Moon",
-                "type": "SATELLITE"
+                "type": "MOON"
             },
             "affiliation": [
                 {
