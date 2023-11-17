@@ -97,31 +97,32 @@ for (const { code } of bootup.systems.resultset) {
 						type: parent.type,
 				  }
 				: null,
-			tunnel:
-				{
-					id: tunnel.id,
-					direction: tunnel.direction,
-					entry_id: tunnel.entry_id,
-					exit_id: tunnel.exit_id,
-					name: tunnel.name,
-					size: tunnel.size,
-					entry: {
-						id: tunnel.entry.id,
-						code: tunnel.entry.code,
-						designation: tunnel.entry.designation,
-						name: tunnel.entry.name,
-						star_system_id: tunnel.entry.star_system_id,
-						status: tunnel.entry.status,
-					},
-					exit: {
-						id: tunnel.exit.id,
-						code: tunnel.exit.code,
-						designation: tunnel.exit.designation,
-						name: tunnel.exit.name,
-						star_system_id: tunnel.exit.star_system_id,
-						status: tunnel.exit.status,
-					},
-				} || null,
+			tunnel: tunnel
+				? {
+						id: tunnel.id,
+						direction: tunnel.direction,
+						entry_id: tunnel.entry_id,
+						exit_id: tunnel.exit_id,
+						name: tunnel.name,
+						size: tunnel.size,
+						entry: {
+							id: tunnel.entry.id,
+							code: tunnel.entry.code,
+							designation: tunnel.entry.designation,
+							name: tunnel.entry.name,
+							star_system_id: tunnel.entry.star_system_id,
+							status: tunnel.entry.status,
+						},
+						exit: {
+							id: tunnel.exit.id,
+							code: tunnel.exit.code,
+							designation: tunnel.exit.designation,
+							name: tunnel.exit.name,
+							star_system_id: tunnel.exit.star_system_id,
+							status: tunnel.exit.status,
+						},
+				  }
+				: null,
 		});
 	}
 
