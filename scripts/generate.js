@@ -58,6 +58,10 @@ for (const { code } of bootup.systems.resultset) {
 
 	for (const object of system.celestial_objects) {
 		const parent = object.parent_id ? system.celestial_objects.find((parent) => parent.id === object.parent_id) : null;
+		const tunnel =
+			object.type === "JUMPPOINT"
+				? bootup.tunnels.resultset.find((tunnel) => tunnel.entry_id === object.id || tunnel.exit_id === object.id)
+				: null;
 
 		objects.push({
 			id: object.id,
@@ -93,11 +97,36 @@ for (const { code } of bootup.systems.resultset) {
 						type: parent.type,
 				  }
 				: null,
+			tunnel:
+				{
+					id: tunnel.id,
+					direction: tunnel.direction,
+					entry_id: tunnel.entry_id,
+					exit_id: tunnel.exit_id,
+					name: tunnel.name,
+					size: tunnel.size,
+					entry: {
+						id: tunnel.entry.id,
+						code: tunnel.entry.code,
+						designation: tunnel.entry.designation,
+						name: tunnel.entry.name,
+						star_system_id: tunnel.entry.star_system_id,
+						status: tunnel.entry.status,
+					},
+					exit: {
+						id: tunnel.exit.id,
+						code: tunnel.exit.code,
+						designation: tunnel.exit.designation,
+						name: tunnel.exit.name,
+						star_system_id: tunnel.exit.star_system_id,
+						status: tunnel.exit.status,
+					},
+				} || null,
 		});
 	}
 
 	console.log("Fetched system " + code);
-	await wait(500);
+	await wait(1_000);
 }
 
 fs.writeFile(
