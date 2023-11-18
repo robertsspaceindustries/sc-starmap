@@ -2,6 +2,20 @@ import fs from "node:fs";
 import path from "node:path";
 import fetch from "node-fetch";
 
+function codeSort(a, b) {
+	const codeA = a.code.toUpperCase();
+	const codeB = b.code.toUpperCase();
+
+	if (codeA < codeB) {
+		return -1;
+	}
+	if (codeA > codeB) {
+		return 1;
+	}
+
+	return 0;
+}
+
 const wait = (t) => new Promise((r) => setTimeout(r, t));
 
 const baseUrl = "https://robertsspaceindustries.com/api/starmap";
@@ -185,8 +199,10 @@ fs.writeFile(
 	path.resolve("out/starmap.json"),
 	JSON.stringify(
 		{
-			systems: systems,
-			objects: objects.filter((item, index, self) => index === self.findIndex((t) => t["id"] === item["id"])),
+			systems: systems.sort(codeSort),
+			objects: objects
+				.filter((item, index, self) => index === self.findIndex((t) => t["id"] === item["id"])) // Remove duplicates
+				.sort(codeSort),
 		},
 		undefined,
 		4, // Beautify
