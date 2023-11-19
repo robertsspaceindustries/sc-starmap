@@ -78,7 +78,6 @@ for (const { code } of bootup.systems.resultset) {
 				: null;
 
 		if (object.subtype?.name === "Planetary Moon") {
-			object.type = "MOON";
 			object.subtype.type = "MOON";
 			object.subtype.id = null;
 		}
