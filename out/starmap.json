@@ -4783,7 +4783,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.51594,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -4821,7 +4821,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.691,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -4859,7 +4859,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.193,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -4897,7 +4897,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.5139,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -4935,7 +4935,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.51562,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -4973,7 +4973,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.52018,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -5011,7 +5011,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.51655,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -5049,7 +5049,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.1858,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -5087,7 +5087,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.1919,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -7074,7 +7074,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.5,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -7120,7 +7120,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.52,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -7166,7 +7166,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.52,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -8996,7 +8996,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -10113,7 +10113,7 @@
             "sensor_economy": "3",
             "sensor_population": "1",
             "size": 0.548491,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -16348,7 +16348,7 @@
             "sensor_economy": "0",
             "sensor_population": "1",
             "size": 1.37266,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -17806,7 +17806,7 @@
             "sensor_economy": "7",
             "sensor_population": "4",
             "size": 0.5,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -20156,7 +20156,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -22780,7 +22780,7 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.15,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -22826,7 +22826,7 @@
             "sensor_economy": "5",
             "sensor_population": "2",
             "size": 0.25,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -22864,7 +22864,7 @@
             "sensor_economy": "1",
             "sensor_population": "1",
             "size": 0.08,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -22902,7 +22902,7 @@
             "sensor_economy": "5",
             "sensor_population": "1",
             "size": 0.3,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -22972,7 +22972,7 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.351479,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -25786,7 +25786,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1.789,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -25824,7 +25824,7 @@
             "sensor_economy": "1",
             "sensor_population": "1",
             "size": 0.6,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -28634,7 +28634,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.93,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -29067,7 +29067,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.38,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -29105,7 +29105,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.42,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -29143,7 +29143,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.81,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -29181,7 +29181,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.5,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -29219,7 +29219,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.6,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31028,7 +31028,7 @@
             "sensor_economy": "1",
             "sensor_population": "1",
             "size": 1.604,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31066,7 +31066,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.062,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31104,7 +31104,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.11,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31142,7 +31142,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.6,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31180,7 +31180,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31218,7 +31218,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31302,7 +31302,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31340,7 +31340,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31378,7 +31378,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31416,7 +31416,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31500,7 +31500,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31630,7 +31630,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.3,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31714,7 +31714,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.75,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31798,7 +31798,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31882,7 +31882,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31920,7 +31920,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 1,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31958,7 +31958,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.8,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -31996,7 +31996,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.65,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -32179,7 +32179,7 @@
                 "code": "SOL.PLANETS.GANYMEDE",
                 "designation": "Sol 5c",
                 "name": "Ganymede",
-                "type": "MOON"
+                "type": "SATELLITE"
             },
             "tunnel": null
         },
@@ -32615,7 +32615,7 @@
             "sensor_economy": "1",
             "sensor_population": "1",
             "size": 0.4,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -32653,7 +32653,7 @@
             "sensor_economy": "2",
             "sensor_population": "1",
             "size": 0.7,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -32691,7 +32691,7 @@
             "sensor_economy": "3",
             "sensor_population": "1",
             "size": 0.6,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -32729,7 +32729,7 @@
             "sensor_economy": "2",
             "sensor_population": "1",
             "size": 0.67,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -32767,7 +32767,7 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.3,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -32805,7 +32805,7 @@
             "sensor_economy": "2",
             "sensor_population": "1",
             "size": 0.4,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -32843,7 +32843,7 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.5,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -32881,7 +32881,7 @@
             "sensor_economy": "2",
             "sensor_population": "1",
             "size": 0.3,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -32919,7 +32919,7 @@
             "sensor_economy": "5",
             "sensor_population": "1",
             "size": 0.5,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -32957,7 +32957,7 @@
             "sensor_economy": "1",
             "sensor_population": "1",
             "size": 0.2,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -32995,7 +32995,7 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.3,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -33033,7 +33033,7 @@
             "sensor_economy": "3",
             "sensor_population": "1",
             "size": 0.7,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -33276,7 +33276,7 @@
                 "code": "STANTON.MOONS.YELA",
                 "designation": "Stanton 2c",
                 "name": "Yela",
-                "type": "MOON"
+                "type": "SATELLITE"
             },
             "tunnel": null
         },
@@ -34772,7 +34772,7 @@
             "sensor_economy": "4",
             "sensor_population": "1",
             "size": 0.6,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -35938,7 +35938,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.51787,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -35976,7 +35976,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.115,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -36014,7 +36014,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.237,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -36052,7 +36052,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.5243,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -37634,7 +37634,7 @@
             "sensor_economy": "3",
             "sensor_population": "2",
             "size": null,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -38628,7 +38628,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.1478473,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -38666,7 +38666,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.1308,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -39531,7 +39531,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.0645,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -39577,7 +39577,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.0446,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -39623,7 +39623,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.1314,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -39669,7 +39669,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.0587,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
@@ -39715,7 +39715,7 @@
             "sensor_economy": "0",
             "sensor_population": "0",
             "size": 0.066,
-            "type": "MOON",
+            "type": "SATELLITE",
             "subtype": {
                 "id": null,
                 "name": "Planetary Moon",
