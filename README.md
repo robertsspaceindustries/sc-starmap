@@ -1,3 +1,3 @@
 # sc-starmap
 
-View using [sc-starmap-screenshot](https://github.com/robertsspaceindustries/sc-starmap-screenshot)
+View using [sc-starmap-search](https://github.com/robertsspaceindustries/sc-starmap-search)
