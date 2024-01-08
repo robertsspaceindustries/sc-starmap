@@ -99,11 +99,12 @@ for (const { code } of bootup.systems.resultset) {
                     baseUrl + "/celestial-objects/" + object.code
                 )
             )?.resultset?.[0];
+
             if (!fullObject)
                 console.log("Failed to get full object of " + object.code);
-            else {
-                for (const child of fullObject.children) {
-                    if (["LZ"].includes(child.type)) {
+            else
+                for (const child of fullObject.children)
+                    if (["LZ"].includes(child.type))
                         objects.push({
                             id: child.id,
                             age: child.age,
@@ -138,9 +139,6 @@ for (const { code } of bootup.systems.resultset) {
                             },
                             tunnel: null,
                         });
-                    }
-                }
-            }
         }
 
         objects.push({
