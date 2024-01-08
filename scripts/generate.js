@@ -66,10 +66,10 @@ for (const { code } of bootup.systems.resultset) {
         status: system.status,
         type: system.type,
         affiliation: system.affiliation,
-        aggregated_size: system.aggregated_size,
-        aggregated_population: system.aggregated_population,
-        aggregated_economy: system.aggregated_economy,
-        aggregated_danger: system.aggregated_danger,
+        aggregated_size: Number(system.aggregated_size),
+        aggregated_population: Number(system.aggregated_population),
+        aggregated_economy: Number(system.aggregated_economy),
+        aggregated_danger: Number(system.aggregated_danger),
     });
 
     for (const object of system.celestial_objects) {
@@ -113,9 +113,9 @@ for (const { code } of bootup.systems.resultset) {
                             habitable: child.habitable,
                             info_url: child.info_url,
                             name: child.name,
-                            sensor_danger: child.sensor_danger,
-                            sensor_economy: child.sensor_economy,
-                            sensor_population: child.sensor_population,
+                            sensor_danger: Number(child.sensor_danger),
+                            sensor_economy: Number(child.sensor_economy),
+                            sensor_population: Number(child.sensor_population),
                             size: child.size,
                             type: child.type,
                             subtype: child.subtype,
