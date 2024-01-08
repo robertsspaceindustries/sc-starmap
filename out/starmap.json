@@ -17,7 +17,7 @@
                     "membership.id": 768
                 }
             ],
-            "aggregated_size": "198.97000000",
+            "aggregated_size": 198.97,
             "aggregated_population": 8.8,
             "aggregated_economy": 3.95,
             "aggregated_danger": 0
@@ -39,7 +39,7 @@
                     "membership.id": 682
                 }
             ],
-            "aggregated_size": "5.70000000",
+            "aggregated_size": 5.7,
             "aggregated_population": 8.54,
             "aggregated_economy": 3.37,
             "aggregated_danger": 0
@@ -61,7 +61,7 @@
                     "membership.id": 756
                 }
             ],
-            "aggregated_size": "7.90000000",
+            "aggregated_size": 7.9,
             "aggregated_population": 7.4,
             "aggregated_economy": 2.91,
             "aggregated_danger": 0
@@ -83,7 +83,7 @@
                     "membership.id": 683
                 }
             ],
-            "aggregated_size": "55.70000000",
+            "aggregated_size": 55.7,
             "aggregated_population": 7.58,
             "aggregated_economy": 1.63,
             "aggregated_danger": 0
@@ -105,7 +105,7 @@
                     "membership.id": 685
                 }
             ],
-            "aggregated_size": "1.30000000",
+            "aggregated_size": 1.3,
             "aggregated_population": 8.27,
             "aggregated_economy": 1.74,
             "aggregated_danger": 0
@@ -127,7 +127,7 @@
                     "membership.id": 686
                 }
             ],
-            "aggregated_size": "6.14000000",
+            "aggregated_size": 6.14,
             "aggregated_population": 8.58,
             "aggregated_economy": 1.51,
             "aggregated_danger": 0
@@ -149,7 +149,7 @@
                     "membership.id": 767
                 }
             ],
-            "aggregated_size": "5.89000000",
+            "aggregated_size": 5.89,
             "aggregated_population": 7.21,
             "aggregated_economy": 1.63,
             "aggregated_danger": 0
@@ -171,7 +171,7 @@
                     "membership.id": 688
                 }
             ],
-            "aggregated_size": "4.39200000",
+            "aggregated_size": 4.392,
             "aggregated_population": 7.96,
             "aggregated_economy": 1.63,
             "aggregated_danger": 0
@@ -193,7 +193,7 @@
                     "membership.id": 689
                 }
             ],
-            "aggregated_size": "22.00000000",
+            "aggregated_size": 22,
             "aggregated_population": 8.31,
             "aggregated_economy": 0.93,
             "aggregated_danger": 0
@@ -215,7 +215,7 @@
                     "membership.id": 690
                 }
             ],
-            "aggregated_size": "22.00000000",
+            "aggregated_size": 22,
             "aggregated_population": 0,
             "aggregated_economy": 1.28,
             "aggregated_danger": 0
@@ -237,7 +237,7 @@
                     "membership.id": 691
                 }
             ],
-            "aggregated_size": "10.00000000",
+            "aggregated_size": 10,
             "aggregated_population": 8.46,
             "aggregated_economy": 3.37,
             "aggregated_danger": 0
@@ -259,7 +259,7 @@
                     "membership.id": 692
                 }
             ],
-            "aggregated_size": "5.78000000",
+            "aggregated_size": 5.78,
             "aggregated_population": 8.42,
             "aggregated_economy": 1.74,
             "aggregated_danger": 0
@@ -281,7 +281,7 @@
                     "membership.id": 693
                 }
             ],
-            "aggregated_size": "1.27000000",
+            "aggregated_size": 1.27,
             "aggregated_population": 0,
             "aggregated_economy": 1.98,
             "aggregated_danger": 0
@@ -303,7 +303,7 @@
                     "membership.id": 695
                 }
             ],
-            "aggregated_size": "8.90000000",
+            "aggregated_size": 8.9,
             "aggregated_population": 8.6,
             "aggregated_economy": 2.21,
             "aggregated_danger": 0
@@ -325,7 +325,7 @@
                     "membership.id": 696
                 }
             ],
-            "aggregated_size": "8.00000000",
+            "aggregated_size": 8,
             "aggregated_population": 8.79,
             "aggregated_economy": 3.02,
             "aggregated_danger": 0
@@ -347,7 +347,7 @@
                     "membership.id": 697
                 }
             ],
-            "aggregated_size": "17.00000000",
+            "aggregated_size": 17,
             "aggregated_population": 8.7,
             "aggregated_economy": 1.51,
             "aggregated_danger": 0
@@ -369,7 +369,7 @@
                     "membership.id": 698
                 }
             ],
-            "aggregated_size": "3.33300000",
+            "aggregated_size": 3.333,
             "aggregated_population": 8.08,
             "aggregated_economy": 2.79,
             "aggregated_danger": 0
@@ -391,7 +391,7 @@
                     "membership.id": 570
                 }
             ],
-            "aggregated_size": "0.00000000",
+            "aggregated_size": 0,
             "aggregated_population": 0,
             "aggregated_economy": 0,
             "aggregated_danger": 0
@@ -413,7 +413,7 @@
                     "membership.id": 699
                 }
             ],
-            "aggregated_size": "101.00000000",
+            "aggregated_size": 101,
             "aggregated_population": 9.01,
             "aggregated_economy": 7.56,
             "aggregated_danger": 0
@@ -435,7 +435,7 @@
                     "membership.id": 700
                 }
             ],
-            "aggregated_size": "9.31000000",
+            "aggregated_size": 9.31,
             "aggregated_population": 7.94,
             "aggregated_economy": 1.74,
             "aggregated_danger": 0
@@ -457,7 +457,7 @@
                     "membership.id": 701
                 }
             ],
-            "aggregated_size": "18.00000000",
+            "aggregated_size": 18,
             "aggregated_population": 8.46,
             "aggregated_economy": 1.28,
             "aggregated_danger": 0
@@ -479,7 +479,7 @@
                     "membership.id": 702
                 }
             ],
-            "aggregated_size": "14.00000000",
+            "aggregated_size": 14,
             "aggregated_population": 8.33,
             "aggregated_economy": 1.86,
             "aggregated_danger": 0
@@ -501,7 +501,7 @@
                     "membership.id": 703
                 }
             ],
-            "aggregated_size": "5.76000000",
+            "aggregated_size": 5.76,
             "aggregated_population": 8.63,
             "aggregated_economy": 2.91,
             "aggregated_danger": 0
@@ -523,7 +523,7 @@
                     "membership.id": 704
                 }
             ],
-            "aggregated_size": "128.40000000",
+            "aggregated_size": 128.4,
             "aggregated_population": 7.65,
             "aggregated_economy": 0.35,
             "aggregated_danger": 0
@@ -545,7 +545,7 @@
                     "membership.id": 705
                 }
             ],
-            "aggregated_size": "25.21000000",
+            "aggregated_size": 25.21,
             "aggregated_population": 7.7,
             "aggregated_economy": 1.74,
             "aggregated_danger": 0
@@ -567,7 +567,7 @@
                     "membership.id": 706
                 }
             ],
-            "aggregated_size": "12.75000000",
+            "aggregated_size": 12.75,
             "aggregated_population": 8.03,
             "aggregated_economy": 4.3,
             "aggregated_danger": 0
@@ -589,7 +589,7 @@
                     "membership.id": 707
                 }
             ],
-            "aggregated_size": "6.00000000",
+            "aggregated_size": 6,
             "aggregated_population": 8.8,
             "aggregated_economy": 2.56,
             "aggregated_danger": 0
@@ -611,7 +611,7 @@
                     "membership.id": 337
                 }
             ],
-            "aggregated_size": "4.20000000",
+            "aggregated_size": 4.2,
             "aggregated_population": 0,
             "aggregated_economy": 0.93,
             "aggregated_danger": 0
@@ -633,7 +633,7 @@
                     "membership.id": 708
                 }
             ],
-            "aggregated_size": "22.00000000",
+            "aggregated_size": 22,
             "aggregated_population": 0,
             "aggregated_economy": 1.05,
             "aggregated_danger": 0
@@ -655,7 +655,7 @@
                     "membership.id": 709
                 }
             ],
-            "aggregated_size": "65.00000000",
+            "aggregated_size": 65,
             "aggregated_population": 0,
             "aggregated_economy": 1.74,
             "aggregated_danger": 0
@@ -677,7 +677,7 @@
                     "membership.id": 770
                 }
             ],
-            "aggregated_size": "15.26415000",
+            "aggregated_size": 15.26415,
             "aggregated_population": 0,
             "aggregated_economy": 2.09,
             "aggregated_danger": 0
@@ -699,7 +699,7 @@
                     "membership.id": 711
                 }
             ],
-            "aggregated_size": "237.20000000",
+            "aggregated_size": 237.2,
             "aggregated_population": 8.59,
             "aggregated_economy": 2.67,
             "aggregated_danger": 0
@@ -721,7 +721,7 @@
                     "membership.id": 713
                 }
             ],
-            "aggregated_size": "4.27000000",
+            "aggregated_size": 4.27,
             "aggregated_population": 8.12,
             "aggregated_economy": 2.21,
             "aggregated_danger": 0
@@ -743,7 +743,7 @@
                     "membership.id": 714
                 }
             ],
-            "aggregated_size": "9.35000000",
+            "aggregated_size": 9.35,
             "aggregated_population": 8.53,
             "aggregated_economy": 1.74,
             "aggregated_danger": 0
@@ -765,7 +765,7 @@
                     "membership.id": 772
                 }
             ],
-            "aggregated_size": "12.51500000",
+            "aggregated_size": 12.515,
             "aggregated_population": 1.06,
             "aggregated_economy": 2.44,
             "aggregated_danger": 0
@@ -787,7 +787,7 @@
                     "membership.id": 716
                 }
             ],
-            "aggregated_size": "3.52000000",
+            "aggregated_size": 3.52,
             "aggregated_population": 7.72,
             "aggregated_economy": 1.16,
             "aggregated_danger": 0
@@ -809,7 +809,7 @@
                     "membership.id": 717
                 }
             ],
-            "aggregated_size": "22.73900000",
+            "aggregated_size": 22.739,
             "aggregated_population": 0,
             "aggregated_economy": 2.67,
             "aggregated_danger": 0
@@ -831,7 +831,7 @@
                     "membership.id": 718
                 }
             ],
-            "aggregated_size": "12.08000000",
+            "aggregated_size": 12.08,
             "aggregated_population": 8.53,
             "aggregated_economy": 1.74,
             "aggregated_danger": 0
@@ -853,7 +853,7 @@
                     "membership.id": 757
                 }
             ],
-            "aggregated_size": "33.33700000",
+            "aggregated_size": 33.337,
             "aggregated_population": 8.13,
             "aggregated_economy": 2.33,
             "aggregated_danger": 0
@@ -875,7 +875,7 @@
                     "membership.id": 569
                 }
             ],
-            "aggregated_size": "0.00000000",
+            "aggregated_size": 0,
             "aggregated_population": 0,
             "aggregated_economy": 0,
             "aggregated_danger": 0
@@ -897,7 +897,7 @@
                     "membership.id": 720
                 }
             ],
-            "aggregated_size": "28.49000000",
+            "aggregated_size": 28.49,
             "aggregated_population": 8.72,
             "aggregated_economy": 2.56,
             "aggregated_danger": 0
@@ -919,7 +919,7 @@
                     "membership.id": 721
                 }
             ],
-            "aggregated_size": "194.40000000",
+            "aggregated_size": 194.4,
             "aggregated_population": 8.9,
             "aggregated_economy": 6.74,
             "aggregated_danger": 0
@@ -941,7 +941,7 @@
                     "membership.id": 722
                 }
             ],
-            "aggregated_size": "11.36000000",
+            "aggregated_size": 11.36,
             "aggregated_population": 8.65,
             "aggregated_economy": 3.02,
             "aggregated_danger": 0
@@ -963,7 +963,7 @@
                     "membership.id": 724
                 }
             ],
-            "aggregated_size": "11.40000000",
+            "aggregated_size": 11.4,
             "aggregated_population": 8.23,
             "aggregated_economy": 1.51,
             "aggregated_danger": 0
@@ -985,7 +985,7 @@
                     "membership.id": 725
                 }
             ],
-            "aggregated_size": "14.00000000",
+            "aggregated_size": 14,
             "aggregated_population": 8.68,
             "aggregated_economy": 1.05,
             "aggregated_danger": 0
@@ -1007,7 +1007,7 @@
                     "membership.id": 571
                 }
             ],
-            "aggregated_size": "0.00000000",
+            "aggregated_size": 0,
             "aggregated_population": 0,
             "aggregated_economy": 0,
             "aggregated_danger": 0
@@ -1029,7 +1029,7 @@
                     "membership.id": 511
                 }
             ],
-            "aggregated_size": "1.30000000",
+            "aggregated_size": 1.3,
             "aggregated_population": 0,
             "aggregated_economy": 2.21,
             "aggregated_danger": 0
@@ -1051,7 +1051,7 @@
                     "membership.id": 726
                 }
             ],
-            "aggregated_size": "2.32600000",
+            "aggregated_size": 2.326,
             "aggregated_population": 8.51,
             "aggregated_economy": 1.28,
             "aggregated_danger": 0
@@ -1073,7 +1073,7 @@
                     "membership.id": 727
                 }
             ],
-            "aggregated_size": "11.30000000",
+            "aggregated_size": 11.3,
             "aggregated_population": 8.27,
             "aggregated_economy": 1.51,
             "aggregated_danger": 0
@@ -1095,7 +1095,7 @@
                     "membership.id": 728
                 }
             ],
-            "aggregated_size": "119.70000000",
+            "aggregated_size": 119.7,
             "aggregated_population": 8.32,
             "aggregated_economy": 1.63,
             "aggregated_danger": 0
@@ -1117,7 +1117,7 @@
                     "membership.id": 729
                 }
             ],
-            "aggregated_size": "11.20000000",
+            "aggregated_size": 11.2,
             "aggregated_population": 5.39,
             "aggregated_economy": 1.74,
             "aggregated_danger": 0
@@ -1139,7 +1139,7 @@
                     "membership.id": 730
                 }
             ],
-            "aggregated_size": "18.47000000",
+            "aggregated_size": 18.47,
             "aggregated_population": 9.04,
             "aggregated_economy": 2.09,
             "aggregated_danger": 0
@@ -1161,7 +1161,7 @@
                     "membership.id": 731
                 }
             ],
-            "aggregated_size": "21.00000000",
+            "aggregated_size": 21,
             "aggregated_population": 0,
             "aggregated_economy": 2.21,
             "aggregated_danger": 0
@@ -1183,7 +1183,7 @@
                     "membership.id": 732
                 }
             ],
-            "aggregated_size": "36.91000000",
+            "aggregated_size": 36.91,
             "aggregated_population": 7.8,
             "aggregated_economy": 0.81,
             "aggregated_danger": 0
@@ -1205,7 +1205,7 @@
                     "membership.id": 733
                 }
             ],
-            "aggregated_size": "5.00000000",
+            "aggregated_size": 5,
             "aggregated_population": 7.73,
             "aggregated_economy": 1.28,
             "aggregated_danger": 0
@@ -1227,7 +1227,7 @@
                     "membership.id": 734
                 }
             ],
-            "aggregated_size": "2.30400000",
+            "aggregated_size": 2.304,
             "aggregated_population": 7.44,
             "aggregated_economy": 1.05,
             "aggregated_danger": 0
@@ -1249,7 +1249,7 @@
                     "membership.id": 735
                 }
             ],
-            "aggregated_size": "16.21000000",
+            "aggregated_size": 16.21,
             "aggregated_population": 7.62,
             "aggregated_economy": 1.51,
             "aggregated_danger": 0
@@ -1271,7 +1271,7 @@
                     "membership.id": 736
                 }
             ],
-            "aggregated_size": "43.77100000",
+            "aggregated_size": 43.771,
             "aggregated_population": 8.29,
             "aggregated_economy": 1.86,
             "aggregated_danger": 0
@@ -1293,7 +1293,7 @@
                     "membership.id": 771
                 }
             ],
-            "aggregated_size": "39.64000000",
+            "aggregated_size": 39.64,
             "aggregated_population": 9.73,
             "aggregated_economy": 3.37,
             "aggregated_danger": 0
@@ -1315,7 +1315,7 @@
                     "membership.id": 785
                 }
             ],
-            "aggregated_size": "13.00000000",
+            "aggregated_size": 13,
             "aggregated_population": 8.13,
             "aggregated_economy": 3.02,
             "aggregated_danger": 0
@@ -1337,7 +1337,7 @@
                     "membership.id": 739
                 }
             ],
-            "aggregated_size": "3.90000000",
+            "aggregated_size": 3.9,
             "aggregated_population": 8.49,
             "aggregated_economy": 2.33,
             "aggregated_danger": 0
@@ -1359,7 +1359,7 @@
                     "membership.id": 740
                 }
             ],
-            "aggregated_size": "35.50000000",
+            "aggregated_size": 35.5,
             "aggregated_population": 9,
             "aggregated_economy": 2.56,
             "aggregated_danger": 0
@@ -1381,7 +1381,7 @@
                     "membership.id": 467
                 }
             ],
-            "aggregated_size": "51.00000000",
+            "aggregated_size": 51,
             "aggregated_population": 8.59,
             "aggregated_economy": 5.58,
             "aggregated_danger": 0
@@ -1403,7 +1403,7 @@
                     "membership.id": 741
                 }
             ],
-            "aggregated_size": "4.85000000",
+            "aggregated_size": 4.85,
             "aggregated_population": 10,
             "aggregated_economy": 10,
             "aggregated_danger": 10
@@ -1425,7 +1425,7 @@
                     "membership.id": 742
                 }
             ],
-            "aggregated_size": "11.50000000",
+            "aggregated_size": 11.5,
             "aggregated_population": 8.86,
             "aggregated_economy": 4.19,
             "aggregated_danger": 0
@@ -1447,7 +1447,7 @@
                     "membership.id": 661
                 }
             ],
-            "aggregated_size": "303.57000000",
+            "aggregated_size": 303.57,
             "aggregated_population": 0,
             "aggregated_economy": 0.23,
             "aggregated_danger": 0
@@ -1469,7 +1469,7 @@
                     "membership.id": 743
                 }
             ],
-            "aggregated_size": "82.73500000",
+            "aggregated_size": 82.735,
             "aggregated_population": 0,
             "aggregated_economy": 1.28,
             "aggregated_danger": 0
@@ -1491,7 +1491,7 @@
                     "membership.id": 745
                 }
             ],
-            "aggregated_size": "18.39000000",
+            "aggregated_size": 18.39,
             "aggregated_population": 7.72,
             "aggregated_economy": 2.79,
             "aggregated_danger": 0
@@ -1513,7 +1513,7 @@
                     "membership.id": 746
                 }
             ],
-            "aggregated_size": "2.84600000",
+            "aggregated_size": 2.846,
             "aggregated_population": 2.59,
             "aggregated_economy": 2.21,
             "aggregated_danger": 0
@@ -1535,7 +1535,7 @@
                     "membership.id": 747
                 }
             ],
-            "aggregated_size": "12.00000000",
+            "aggregated_size": 12,
             "aggregated_population": 9.1,
             "aggregated_economy": 5.47,
             "aggregated_danger": 0
@@ -1557,7 +1557,7 @@
                     "membership.id": 748
                 }
             ],
-            "aggregated_size": "1.00000000",
+            "aggregated_size": 1,
             "aggregated_population": 0,
             "aggregated_economy": 1.05,
             "aggregated_danger": 0
@@ -1579,7 +1579,7 @@
                     "membership.id": 749
                 }
             ],
-            "aggregated_size": "11.00000000",
+            "aggregated_size": 11,
             "aggregated_population": 8.35,
             "aggregated_economy": 2.79,
             "aggregated_danger": 0
@@ -1601,7 +1601,7 @@
                     "membership.id": 750
                 }
             ],
-            "aggregated_size": "11.00000000",
+            "aggregated_size": 11,
             "aggregated_population": 8.65,
             "aggregated_economy": 1.4,
             "aggregated_danger": 0
@@ -1623,7 +1623,7 @@
                     "membership.id": 751
                 }
             ],
-            "aggregated_size": "56.10000000",
+            "aggregated_size": 56.1,
             "aggregated_population": 8.74,
             "aggregated_economy": 3.02,
             "aggregated_danger": 0
@@ -1645,7 +1645,7 @@
                     "membership.id": 557
                 }
             ],
-            "aggregated_size": "0.00000000",
+            "aggregated_size": 0,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1667,7 +1667,7 @@
                     "membership.id": 559
                 }
             ],
-            "aggregated_size": "1.00000000",
+            "aggregated_size": 1,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1689,7 +1689,7 @@
                     "membership.id": 553
                 }
             ],
-            "aggregated_size": "1.00000000",
+            "aggregated_size": 1,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1711,7 +1711,7 @@
                     "membership.id": 752
                 }
             ],
-            "aggregated_size": "8.00000000",
+            "aggregated_size": 8,
             "aggregated_population": 8.61,
             "aggregated_economy": 3.02,
             "aggregated_danger": 0
@@ -1733,7 +1733,7 @@
                     "membership.id": 554
                 }
             ],
-            "aggregated_size": "0.00000000",
+            "aggregated_size": 0,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1755,7 +1755,7 @@
                     "membership.id": 558
                 }
             ],
-            "aggregated_size": "0.00000000",
+            "aggregated_size": 0,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1777,7 +1777,7 @@
                     "membership.id": 640
                 }
             ],
-            "aggregated_size": "0.00000000",
+            "aggregated_size": 0,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1799,7 +1799,7 @@
                     "membership.id": 560
                 }
             ],
-            "aggregated_size": "0.00000000",
+            "aggregated_size": 0,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1821,7 +1821,7 @@
                     "membership.id": 563
                 }
             ],
-            "aggregated_size": "1.00000000",
+            "aggregated_size": 1,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1843,7 +1843,7 @@
                     "membership.id": 754
                 }
             ],
-            "aggregated_size": "16.00000000",
+            "aggregated_size": 16,
             "aggregated_population": 7.57,
             "aggregated_economy": 1.28,
             "aggregated_danger": 0
@@ -1865,7 +1865,7 @@
                     "membership.id": 564
                 }
             ],
-            "aggregated_size": "0.00000000",
+            "aggregated_size": 0,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1887,7 +1887,7 @@
                     "membership.id": 773
                 }
             ],
-            "aggregated_size": "98.26494000",
+            "aggregated_size": 98.26494,
             "aggregated_population": 7.51,
             "aggregated_economy": 4.53,
             "aggregated_danger": 0
@@ -1909,7 +1909,7 @@
                     "membership.id": 562
                 }
             ],
-            "aggregated_size": "0.00000000",
+            "aggregated_size": 0,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1931,7 +1931,7 @@
                     "membership.id": 556
                 }
             ],
-            "aggregated_size": "0.00000000",
+            "aggregated_size": 0,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1953,7 +1953,7 @@
                     "membership.id": 561
                 }
             ],
-            "aggregated_size": "7.00000000",
+            "aggregated_size": 7,
             "aggregated_population": 1.08,
             "aggregated_economy": 0.12,
             "aggregated_danger": 0
@@ -1975,7 +1975,7 @@
                     "membership.id": 755
                 }
             ],
-            "aggregated_size": "30.01400000",
+            "aggregated_size": 30.014,
             "aggregated_population": 8.46,
             "aggregated_economy": 5,
             "aggregated_danger": 0
@@ -22442,9 +22442,9 @@
             "habitable": null,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": 0,
             "type": "LZ",
             "subtype": null,
@@ -24778,9 +24778,9 @@
             "habitable": null,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": null,
             "type": "LZ",
             "subtype": null,
@@ -30888,9 +30888,9 @@
             "habitable": null,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": 0,
             "type": "LZ",
             "subtype": null,
@@ -30922,9 +30922,9 @@
             "habitable": null,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": 0,
             "type": "LZ",
             "subtype": null,
@@ -30956,9 +30956,9 @@
             "habitable": null,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": 0,
             "type": "LZ",
             "subtype": null,
@@ -30990,9 +30990,9 @@
             "habitable": null,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": 0,
             "type": "LZ",
             "subtype": null,
@@ -32475,9 +32475,9 @@
             "habitable": true,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": null,
             "type": "LZ",
             "subtype": null,
@@ -32509,9 +32509,9 @@
             "habitable": null,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": 0,
             "type": "LZ",
             "subtype": null,
@@ -32543,9 +32543,9 @@
             "habitable": true,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": 0,
             "type": "LZ",
             "subtype": null,
@@ -32577,9 +32577,9 @@
             "habitable": null,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": 0,
             "type": "LZ",
             "subtype": null,
@@ -35900,9 +35900,9 @@
             "habitable": null,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": null,
             "type": "LZ",
             "subtype": null,
@@ -38590,9 +38590,9 @@
             "habitable": true,
             "info_url": null,
             "name": null,
-            "sensor_danger": "0",
-            "sensor_economy": "0",
-            "sensor_population": "0",
+            "sensor_danger": 0,
+            "sensor_economy": 0,
+            "sensor_population": 0,
             "size": null,
             "type": "LZ",
             "subtype": null,
