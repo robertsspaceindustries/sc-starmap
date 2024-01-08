@@ -207,7 +207,7 @@ for (const { code } of bootup.systems.resultset) {
     }
 
     console.log("Fetched system " + code);
-    await wait(1_000);
+    await wait(1_500);
 }
 
 fs.writeFile(
