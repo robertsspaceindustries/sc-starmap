@@ -9,16 +9,24 @@ import wait from './utils/wait';
 import type { IObject, IStarmapObject, ITunnel } from './object';
 import type { IStarmapSystem, ISystem } from './system';
 
+const interval = 1_250;
+
 const bootup = await request('POST', '/bootup');
 console.log('Fetched bootup');
 
 const systems: ISystem[] = [];
 const objects: IObject[] = [];
 
-for (const { code } of (bootup.systems as Record<string, unknown>).resultset as Array<Record<string, unknown>>) {
+const bootupSystems = (bootup.systems as Record<string, unknown>).resultset as Array<Record<string, unknown>>;
+
+for (const { code } of bootupSystems) {
   const { resultset: systemResultset } = await request('POST', `/star-systems/${code}`);
   const [system] = systemResultset as IStarmapSystem[];
-  console.log('Fetched', code);
+  console.log(
+    'Fetched',
+    code,
+    `(${bootupSystems.findIndex((comparing) => comparing.code === code) + 1}/${bootupSystems.length})`,
+  );
 
   systems.push({
     id: system.id,
@@ -63,12 +71,11 @@ for (const { code } of (bootup.systems as Record<string, unknown>).resultset as 
         objects.push(createObject(child, system, starmapObject));
       }
 
-      // Wait an additional 500ms for the request above
-      await wait(2_000);
+      await wait(interval);
     }
   }
 
-  await wait(2_000);
+  await wait(interval);
 }
 
 const outDir = path.resolve('./out');
