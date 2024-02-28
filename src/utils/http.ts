@@ -5,7 +5,7 @@ import wait from './wait';
 const base = 'https://robertsspaceindustries.com/api/starmap';
 
 export default function request(method: string, url: string, body?: object): Promise<Record<string, unknown>> {
-  return new Promise((r) =>
+  return new Promise((r) => {
     (async function attempt() {
       const response = await fetch(`${base}${url}`, {
         method,
@@ -24,6 +24,6 @@ export default function request(method: string, url: string, body?: object): Pro
       if (!data.success) throw new Error(`Starmap Error: ${data.msg}\nURL: ${url}`);
 
       r(data.data as Record<string, unknown>);
-    })(),
-  );
+    })();
+  });
 }
